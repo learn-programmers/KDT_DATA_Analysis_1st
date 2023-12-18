@@ -10,7 +10,7 @@ SELECT DISTINCT
 FROM
     ev1;
 --  -----------------------------------------------------------------
-# 51개 브랜드 차량 갯수가 가장 많은 상위 7개
+# 차량 갯수가 가장 많은 상위 브랜드 5개
 SELECT 
     Brand, COUNT(*) AS NumberOfCars
 FROM
@@ -20,7 +20,7 @@ FROM
         ev1) AS Brands
 GROUP BY Brand
 ORDER BY NumberOfCars DESC
-LIMIT 7;
+LIMIT 5;
 --  -----------------------------------------------------------------
 # 브랜드별 FastCharge 평균 구하기.
 SELECT 
@@ -33,7 +33,7 @@ FROM
 GROUP BY Brand
 ORDER BY FastCharge DESC;
 --  -----------------------------------------------------------------
-# 차량 갯수가 많은 상위 7개 브랜드에서 AverageFastCharge 구하기
+# 차량 갯수가 많은 상위 5개 브랜드에서 AverageFastCharge 구하기
 SELECT 
     TopBrands.Brand,
     ROUND(AVG(ev1.Fast_charge)) AS AverageFastCharge
@@ -44,13 +44,13 @@ FROM
         ev1
     GROUP BY SUBSTRING_INDEX(Car_name, ' ', 1)
     ORDER BY COUNT(*) DESC
-    LIMIT 7) AS TopBrands
+    LIMIT 5) AS TopBrands
         JOIN
     ev1 ON TopBrands.Brand = SUBSTRING_INDEX(ev1.Car_name, ' ', 1)
 GROUP BY TopBrands.Brand
 ORDER BY AverageFastCharge DESC;
 --  -----------------------------------------------------------------
-# 차량 갯수가 많은 상위 7개 브랜드에서 AverageBattery구하기
+# 차량 갯수가 많은 상위 5개 브랜드에서 AverageBattery구하기
 SELECT 
     TopBrands.Brand,
     ROUND(AVG(ev1.Battery)) AS AverageBattery
@@ -61,13 +61,13 @@ FROM
         ev1
     GROUP BY SUBSTRING_INDEX(Car_name, ' ', 1)
     ORDER BY COUNT(*) DESC
-    LIMIT 7) AS TopBrands
+    LIMIT 5) AS TopBrands
         JOIN
     ev1 ON TopBrands.Brand = SUBSTRING_INDEX(ev1.Car_name, ' ', 1)
 GROUP BY TopBrands.Brand
 ORDER BY AverageBattery DESC;
 --  -----------------------------------------------------------------
-# 차량 갯수가 많은 상위 7개 브랜드에서 AverageRange구하기
+# 차량 갯수가 많은 상위 5개 브랜드에서 AverageRange구하기
 SELECT 
     TopBrands.Brand,
     ROUND(AVG(ev1.range)) AS AverageRange
@@ -78,13 +78,13 @@ FROM
         ev1
     GROUP BY SUBSTRING_INDEX(Car_name, ' ', 1)
     ORDER BY COUNT(*) DESC
-    LIMIT 7) AS TopBrands
+    LIMIT 5) AS TopBrands
         JOIN
     ev1 ON TopBrands.Brand = SUBSTRING_INDEX(ev1.Car_name, ' ', 1)
 GROUP BY TopBrands.Brand
 ORDER BY AverageRange DESC;
 --  -----------------------------------------------------------------
-# 차량 갯수가 많은 상위 7개 브랜드에서 AverageSales구하기
+# 차량 갯수가 많은 상위 5개 브랜드에서 AverageSales구하기
 SELECT 
     TopBrands.Brand,
     ROUND(AVG(ev1.Sales)) AS AverageSales
@@ -95,13 +95,13 @@ FROM
         ev1
     GROUP BY SUBSTRING_INDEX(Car_name, ' ', 1)
     ORDER BY COUNT(*) DESC
-    LIMIT 7) AS TopBrands
+    LIMIT 5) AS TopBrands
         JOIN
     ev1 ON TopBrands.Brand = SUBSTRING_INDEX(ev1.Car_name, ' ', 1)
 GROUP BY TopBrands.Brand
 ORDER BY AverageSales DESC;
 --  -----------------------------------------------------------------
-# 차량 갯수가 많은 상위 7개 브랜드에서 AveragePrice구하기
+# 차량 갯수가 많은 상위 5개 브랜드에서 AveragePrice구하기
 SELECT 
     TopBrands.Brand,
     ROUND(AVG(ev1.Price_DE)) AS AveragePrice
@@ -112,7 +112,7 @@ FROM
         ev1
     GROUP BY SUBSTRING_INDEX(Car_name, ' ', 1)
     ORDER BY COUNT(*) DESC
-    LIMIT 7) AS TopBrands
+    LIMIT 5) AS TopBrands
         JOIN
     ev1 ON TopBrands.Brand = SUBSTRING_INDEX(ev1.Car_name, ' ', 1)
 GROUP BY TopBrands.Brand
