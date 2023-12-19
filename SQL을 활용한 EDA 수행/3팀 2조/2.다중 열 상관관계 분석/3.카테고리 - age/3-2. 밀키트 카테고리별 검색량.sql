@@ -1,0 +1,11 @@
+-- 10-60대 까지의 각 연령대 별 카테고리 
+SELECT category,
+    ROUND(AVG(CASE WHEN age = 10 THEN ratio END)) AS AVERAGE_10,
+    ROUND(AVG(CASE WHEN age = 20 THEN ratio END)) AS AVERAGE_20,
+    ROUND(AVG(CASE WHEN age = 30 THEN ratio END)) AS AVERAGE_30,
+    ROUND(AVG(CASE WHEN age = 40 THEN ratio END)) AS AVERAGE_40,
+    ROUND(AVG(CASE WHEN age = 50 THEN ratio END)) AS AVERAGE_50,
+    ROUND(AVG(CASE WHEN age = 60 THEN ratio END)) AS AVERAGE_60
+FROM datatable
+GROUP BY 1 
+ORDER BY 1 ;
