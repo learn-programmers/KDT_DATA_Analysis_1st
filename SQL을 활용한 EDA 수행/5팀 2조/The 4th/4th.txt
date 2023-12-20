@@ -1,0 +1,17 @@
+성별(Gender)에 따라 구매하는 카테고리(Category) 분포 비교하여 주 타겟 성별을 골라 어떤 카테고리, 어떤 아이템(Item Purchased) 제품을 판매하는 것이 좋을 지 파악
+
+1. 전반적으로 남성의 구매율이 높다.
+2. 그렇기에 각자 남/여성의 물품에서 Item의 갯수를 나눠  Item의 점유율을 구했다.
+3. 남성 / 여성이 구매한 아이템 중 점유율 4% 가 넘으면서 다른 이성과 % 차이가 1, 0.5, 0.25로 추천도를 나눴다.
+
+4. 1이상 차이나는 물품(강력추천)
+	- 남성에겐 Backpack 추천한다.
+	- 여성에겐 Blouse와 Handag 추천한다.
+
+5. 1미만 0.5이상 차이나는 물품(추천)
+	- 남성에게 Pants, Coat, Scarf 추천한다.
+	- 여성에게 Sandals, Socks, Handbag, Sunglasses 추천한다.
+
+6. 0.2미만 0.25이상 차이나는 물품(약간 추천)
+	- 남성에게 Jwelry, Sweater, Shorts 추천
+	- 여성에게 Shirt, Belt, Hat, Hoodie, Boots 추천
