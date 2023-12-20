@@ -1,0 +1,43 @@
+"Shipping Type","Frequency of Purchases","Purchase Count"
+"2-Day Shipping",Annually,44
+"2-Day Shipping",Bi-Weekly,48
+"2-Day Shipping","Every 3 Months",46
+"2-Day Shipping",Fortnightly,45
+"2-Day Shipping",Monthly,44
+"2-Day Shipping",Quarterly,41
+"2-Day Shipping",Weekly,44
+Express,Annually,50
+Express,Bi-Weekly,53
+Express,"Every 3 Months",45
+Express,Fortnightly,40
+Express,Monthly,46
+Express,Quarterly,40
+Express,Weekly,48
+"Free Shipping",Annually,61
+"Free Shipping",Bi-Weekly,43
+"Free Shipping","Every 3 Months",55
+"Free Shipping",Fortnightly,42
+"Free Shipping",Monthly,45
+"Free Shipping",Quarterly,48
+"Free Shipping",Weekly,54
+"Next Day Air",Annually,55
+"Next Day Air",Bi-Weekly,50
+"Next Day Air","Every 3 Months",61
+"Next Day Air",Fortnightly,35
+"Next Day Air",Monthly,57
+"Next Day Air",Quarterly,40
+"Next Day Air",Weekly,41
+Standard,Annually,53
+Standard,Bi-Weekly,45
+Standard,"Every 3 Months",47
+Standard,Fortnightly,53
+Standard,Monthly,41
+Standard,Quarterly,39
+Standard,Weekly,35
+"Store Pickup",Annually,43
+"Store Pickup",Bi-Weekly,47
+"Store Pickup","Every 3 Months",52
+"Store Pickup",Fortnightly,55
+"Store Pickup",Monthly,46
+"Store Pickup",Quarterly,50
+"Store Pickup",Weekly,38

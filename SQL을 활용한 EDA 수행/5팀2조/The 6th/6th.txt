@@ -1,0 +1,7 @@
+리뷰평점(Review Rating), 구독상태(Subscription Status), 카테고리(Category) 결합해서 만족도 파악과 제고관리 및 제품개발에 사용
+
+1.Category 별로 Subscription Status 상태 구분하여 Rating 4이상(High), 4미만 3이상(Medium), 3미만 2이상(Low), 2미만(Bad) 으로 나눈다.
+
+2. 이후 Subscription Status Yes, No 평점을 구해 만족도를 구한다.
+
+3. Low 인 제품들 모아서 개발할 제품들을 카운팅한다.
