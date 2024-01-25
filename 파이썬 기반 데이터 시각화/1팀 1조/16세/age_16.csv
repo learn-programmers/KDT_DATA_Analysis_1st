@@ -1,0 +1,178 @@
+school,sex,address,famsize,Pstatus,Mjob,Fjob,reason,guardian,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,age,Medu,Fedu,traveltime,studytime,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,classify_Alc
+GP,F,U,GT3,T,other,other,home,father,no,yes,no,no,yes,yes,no,no,16,3,3,1,2,4,3,2,1,2,5,0,11,13,Other
+GP,M,U,LE3,T,services,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,16,4,3,1,2,5,4,2,1,2,5,6,12,12,Other
+GP,M,U,LE3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,no,16,2,2,1,2,4,4,4,1,1,3,0,13,12,Very Low
+GP,F,U,GT3,T,health,other,home,mother,no,yes,no,no,yes,yes,yes,no,16,4,4,1,1,4,4,4,1,2,2,6,17,17,Other
+GP,F,U,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,16,4,4,1,3,3,2,3,1,2,2,10,13,13,Other
+GP,F,U,GT3,T,other,other,reputation,mother,yes,yes,no,yes,yes,yes,no,no,16,3,3,3,2,5,3,2,1,1,4,2,13,14,Very Low
+GP,M,U,LE3,T,health,other,home,father,no,no,no,yes,yes,yes,yes,no,16,4,3,1,1,3,1,3,1,3,5,6,12,12,Other
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,yes,yes,yes,yes,no,16,4,2,1,2,4,5,1,1,3,5,0,12,13,Other
+GP,M,U,LE3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,16,2,2,2,2,5,4,4,2,4,5,2,10,10,Other
+GP,F,U,GT3,T,services,services,home,mother,no,yes,no,no,no,yes,yes,no,16,2,2,1,1,1,2,2,1,3,5,6,10,11,Other
+GP,M,U,LE3,A,services,other,home,mother,yes,yes,yes,yes,yes,yes,yes,no,16,3,4,1,2,5,3,3,1,1,5,2,12,12,Very Low
+GP,M,U,GT3,T,teacher,teacher,home,mother,no,yes,yes,yes,yes,yes,yes,yes,16,4,4,1,2,4,4,5,5,5,5,4,12,11,Other
+GP,M,U,GT3,T,other,other,home,mother,no,yes,no,no,no,yes,yes,no,16,3,2,1,1,5,4,3,1,1,5,4,12,12,Very Low
+GP,M,R,GT3,A,other,teacher,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,16,4,4,2,3,2,4,3,1,1,5,4,13,13,Very Low
+GP,F,U,LE3,T,other,other,home,mother,no,yes,no,yes,no,yes,yes,yes,16,2,2,2,2,3,3,3,1,2,3,16,11,11,Other
+GP,F,U,LE3,T,other,at_home,course,father,yes,no,no,yes,yes,yes,yes,no,16,2,2,2,2,4,3,3,2,2,5,14,10,11,Low
+GP,F,U,LE3,A,other,services,home,mother,no,yes,no,no,yes,yes,yes,no,16,3,3,1,2,2,3,5,1,4,3,6,13,12,Other
+GP,M,U,GT3,T,health,services,reputation,mother,no,no,no,yes,yes,yes,yes,no,16,4,3,1,4,4,2,2,1,1,2,2,17,17,Very Low
+GP,F,U,LE3,T,services,services,course,mother,no,yes,no,no,yes,yes,yes,no,16,2,2,3,2,4,3,3,2,3,4,0,14,13,Other
+GP,F,U,GT3,A,other,other,other,mother,no,no,no,yes,yes,yes,yes,yes,16,2,1,1,2,5,3,4,1,1,2,2,12,13,Very Low
+GP,F,U,GT3,T,services,other,course,mother,no,yes,yes,no,yes,yes,yes,no,16,4,2,1,2,4,2,3,1,1,5,2,16,15,Very Low
+GP,F,R,GT3,T,health,teacher,other,mother,no,yes,no,yes,yes,yes,no,no,16,4,4,1,2,2,4,4,2,3,4,0,17,16,Other
+GP,F,U,GT3,T,services,services,course,father,yes,yes,no,yes,no,yes,yes,yes,16,1,1,4,1,5,5,5,5,5,5,0,10,10,Other
+GP,F,U,LE3,T,other,services,reputation,father,yes,no,no,yes,yes,yes,yes,no,16,1,2,1,2,4,4,3,1,1,1,0,13,13,Very Low
+GP,F,U,GT3,T,teacher,health,home,mother,yes,yes,no,yes,yes,yes,yes,no,16,4,3,1,3,3,4,4,2,4,4,0,14,13,Other
+GP,F,U,LE3,T,teacher,services,course,mother,no,yes,no,yes,yes,yes,yes,no,16,4,3,3,2,5,4,3,1,2,1,2,16,15,Other
+GP,F,U,GT3,T,services,other,course,mother,yes,yes,no,no,yes,yes,yes,no,16,3,1,1,4,4,3,3,1,2,5,0,10,9,Other
+GP,M,U,GT3,T,other,other,reputation,father,no,yes,no,no,yes,yes,yes,no,16,3,1,2,4,4,3,2,1,1,5,2,13,11,Very Low
+GP,M,U,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,no,no,16,3,1,1,1,5,3,2,2,2,5,0,13,13,Low
+GP,F,U,GT3,T,other,services,home,mother,yes,yes,no,yes,yes,yes,yes,no,16,3,3,1,2,4,3,3,2,4,5,4,11,11,Other
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,no,no,yes,yes,yes,yes,16,2,2,1,4,5,2,3,1,3,3,1,13,13,Other
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,16,3,4,1,2,2,4,3,1,2,3,14,12,11,Other
+GP,F,U,LE3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,no,no,16,2,2,1,2,4,3,4,1,2,2,6,13,11,Other
+GP,M,U,GT3,T,services,other,reputation,father,no,no,no,yes,no,yes,yes,no,16,2,2,2,2,4,4,2,1,1,3,6,12,10,Very Low
+GP,M,U,LE3,A,teacher,health,reputation,mother,no,yes,no,no,yes,yes,no,no,16,4,4,1,2,4,1,3,3,5,5,6,9,9,Other
+GP,F,U,GT3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,yes,16,3,3,1,3,4,3,3,1,3,4,2,9,11,Other
+GP,F,U,LE3,T,other,other,home,father,yes,yes,no,no,yes,yes,no,no,16,3,1,1,2,3,3,3,2,3,2,0,12,13,Other
+GP,F,U,GT3,T,teacher,services,home,mother,no,yes,no,yes,yes,yes,yes,no,16,4,2,2,2,5,3,3,1,1,1,2,13,14,Very Low
+GP,M,R,GT3,T,services,other,reputation,mother,yes,yes,yes,yes,no,yes,yes,no,16,4,3,2,1,3,3,3,1,1,4,6,9,11,Very Low
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,no,yes,16,2,1,1,2,4,3,5,1,1,5,0,13,12,Very Low
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,no,yes,no,yes,yes,no,16,4,4,1,1,5,3,4,1,2,1,4,12,13,Other
+GP,F,U,GT3,T,other,at_home,course,mother,yes,yes,no,no,yes,yes,yes,no,16,4,3,1,3,5,3,5,1,1,3,2,12,13,Very Low
+GP,M,U,GT3,T,services,services,other,mother,yes,yes,no,yes,yes,yes,yes,no,16,4,4,1,1,4,5,5,5,5,4,12,9,9,Other
+GP,M,U,GT3,T,services,teacher,other,father,no,yes,no,yes,yes,yes,yes,yes,16,4,4,1,3,4,4,3,1,1,4,0,16,16,Very Low
+GP,M,U,GT3,T,services,other,home,father,no,yes,no,yes,yes,yes,yes,no,16,3,3,1,3,5,3,3,1,1,5,4,13,14,Very Low
+GP,F,U,LE3,T,health,health,other,mother,no,yes,no,yes,yes,yes,yes,yes,16,4,4,1,3,5,4,5,1,1,4,2,15,15,Very Low
+GP,F,R,GT3,T,services,other,reputation,father,yes,yes,no,yes,yes,yes,yes,no,16,3,3,1,3,4,1,2,1,1,2,4,11,11,Very Low
+GP,F,U,GT3,T,at_home,other,home,mother,yes,no,no,yes,yes,yes,yes,no,16,2,2,1,2,3,1,2,1,1,5,12,8,10,Very Low
+GP,M,U,GT3,T,teacher,teacher,course,father,no,yes,no,yes,yes,yes,yes,no,16,4,4,1,2,5,4,4,1,2,5,6,16,14,Other
+GP,M,U,GT3,T,other,services,home,father,no,no,no,yes,yes,yes,yes,no,16,3,3,2,1,5,4,2,1,1,5,6,14,14,Very Low
+GP,F,U,LE3,T,other,health,course,father,no,yes,no,yes,yes,yes,yes,yes,16,2,4,2,2,4,2,2,1,2,5,2,14,12,Other
+GP,M,U,GT3,T,health,other,course,mother,no,yes,no,yes,yes,yes,yes,no,16,4,4,1,1,3,4,4,1,4,5,4,12,13,Other
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,yes,16,2,2,1,2,5,4,4,1,1,5,0,12,11,Very Low
+GP,M,R,GT3,T,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,no,16,4,4,1,1,3,5,5,2,5,4,8,14,14,Other
+GP,M,U,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,yes,16,2,3,2,3,3,2,3,2,2,1,4,13,12,Low
+GP,F,U,GT3,A,services,other,course,father,no,no,no,no,yes,yes,yes,no,16,3,4,1,1,3,2,1,1,4,5,12,15,13,Other
+GP,M,U,GT3,T,at_home,other,course,mother,no,no,no,no,yes,yes,no,no,16,2,1,4,1,3,2,1,1,1,2,4,9,9,Very Low
+GP,F,U,GT3,A,other,other,home,mother,no,no,no,no,yes,yes,no,no,16,2,2,1,1,5,3,4,1,1,5,12,13,11,Very Low
+GP,F,R,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,no,no,16,1,1,4,2,5,1,3,1,1,3,0,14,13,Very Low
+GP,F,R,GT3,T,other,services,reputation,mother,no,yes,no,yes,yes,yes,no,yes,16,1,1,2,1,3,3,3,1,2,1,8,12,11,Other
+GP,F,U,GT3,A,other,other,course,other,no,yes,no,yes,no,yes,yes,yes,16,3,3,2,1,4,3,2,1,1,5,4,9,9,Very Low
+GP,M,U,LE3,T,services,other,course,mother,no,no,no,no,yes,yes,no,yes,16,1,1,1,2,4,4,4,1,3,5,0,10,10,Other
+GP,M,U,GT3,T,services,services,course,mother,no,yes,no,yes,yes,yes,yes,no,16,4,4,1,3,5,3,3,1,3,5,0,15,13,Other
+GP,M,U,LE3,T,services,services,reputation,father,no,yes,no,yes,yes,yes,yes,no,16,2,2,2,1,2,3,3,2,2,2,4,12,11,Low
+GP,F,U,LE3,T,at_home,at_home,course,mother,no,no,no,no,yes,yes,yes,no,16,1,1,1,1,3,4,4,3,3,1,4,10,11,Other
+GP,M,U,GT3,T,teacher,teacher,course,mother,no,yes,no,no,yes,no,yes,yes,16,4,4,1,1,3,3,2,2,1,5,16,9,9,Other
+GP,M,U,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,no,yes,16,2,1,1,1,4,4,4,3,5,5,6,9,10,Other
+GP,M,R,GT3,T,at_home,other,course,mother,no,no,no,no,no,yes,no,no,16,2,2,3,1,4,2,2,1,2,3,4,12,10,Other
+GP,M,U,GT3,T,other,services,course,father,no,yes,no,no,yes,yes,yes,yes,16,3,3,1,2,4,5,5,4,4,5,0,10,10,Other
+GP,M,U,LE3,T,health,services,course,mother,no,no,no,no,no,yes,yes,no,16,1,2,2,1,4,4,5,3,5,5,0,9,8,Other
+GP,M,U,GT3,T,at_home,services,course,father,no,no,no,no,yes,no,yes,no,16,1,3,1,1,5,3,3,1,4,2,2,9,8,Other
+GP,M,U,GT3,T,other,other,course,father,no,no,no,no,yes,no,yes,no,16,2,2,1,2,4,3,5,2,4,4,0,9,10,Other
+GP,F,U,GT3,T,health,services,home,father,no,no,no,no,yes,yes,yes,yes,16,4,2,1,2,4,2,3,1,1,3,0,17,17,Very Low
+GP,F,U,GT3,T,other,other,home,mother,no,yes,no,no,no,yes,yes,no,16,2,2,1,2,5,1,5,1,1,4,0,12,12,Very Low
+GP,F,U,GT3,T,health,health,reputation,mother,no,yes,no,no,yes,yes,yes,yes,16,4,4,1,2,4,4,2,1,1,3,0,16,16,Very Low
+GP,M,U,GT3,T,other,other,course,father,no,yes,no,yes,no,yes,yes,no,16,3,4,3,1,3,4,5,2,4,2,4,9,9,Other
+GP,M,U,GT3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,16,1,0,2,2,4,3,2,1,1,3,0,16,17,Very Low
+GP,F,U,GT3,T,at_home,services,home,mother,no,no,no,yes,no,yes,yes,yes,16,1,3,1,2,4,3,5,1,1,3,0,14,13,Very Low
+GP,F,U,LE3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,16,3,3,2,2,4,4,5,1,1,4,0,14,14,Very Low
+GP,F,U,GT3,T,services,other,reputation,mother,no,no,no,yes,no,yes,yes,no,16,2,2,2,2,3,4,4,1,4,5,0,13,12,Other
+GP,M,R,GT3,T,teacher,services,other,mother,no,yes,no,yes,yes,yes,yes,yes,16,4,2,1,1,4,3,3,3,4,3,8,10,9,Other
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,yes,yes,yes,yes,yes,no,16,4,3,1,2,3,4,3,2,3,3,4,11,10,Other
+GP,M,U,GT3,T,services,other,home,mother,no,no,no,yes,yes,yes,yes,yes,16,3,3,1,2,4,2,3,1,2,3,0,11,12,Other
+GP,F,U,GT3,T,other,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,16,3,2,1,2,1,2,2,1,2,1,8,14,15,Other
+GP,M,U,GT3,T,services,services,other,mother,no,yes,no,yes,yes,yes,yes,yes,16,1,2,1,1,3,3,3,1,2,3,0,10,9,Other
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,yes,16,2,1,1,2,4,2,3,1,2,5,0,13,14,Other
+GP,F,U,GT3,T,services,services,course,mother,no,no,no,no,yes,yes,yes,no,16,2,3,1,2,4,3,3,1,1,2,6,12,12,Very Low
+GP,M,R,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,16,3,3,1,1,4,3,2,3,4,5,0,11,10,Other
+GP,M,U,GT3,T,other,other,home,father,no,no,no,no,yes,yes,yes,no,16,2,3,2,1,5,3,3,1,1,3,0,13,12,Very Low
+GP,M,R,LE3,T,teacher,other,home,father,no,yes,no,yes,yes,yes,yes,no,16,3,3,3,1,3,3,4,3,5,3,16,10,11,Other
+GP,F,U,LE3,T,teacher,teacher,reputation,mother,no,yes,no,no,yes,yes,yes,no,16,4,4,1,2,4,5,2,1,2,3,0,11,10,Other
+GP,F,U,GT3,T,health,other,home,mother,no,yes,no,yes,yes,yes,yes,no,16,4,3,1,2,4,3,5,1,5,2,2,14,14,Other
+GP,F,U,GT3,T,other,other,reputation,mother,yes,yes,no,yes,yes,yes,no,no,16,2,3,1,2,4,4,3,1,3,4,4,11,12,Other
+GP,F,R,GT3,T,services,services,reputation,mother,no,yes,no,yes,no,yes,yes,no,16,2,2,2,4,5,3,5,1,1,5,6,13,13,Very Low
+GP,F,U,GT3,A,services,other,course,mother,no,yes,no,no,yes,yes,yes,no,16,3,1,1,2,2,3,3,2,2,4,2,11,11,Low
+GP,F,U,GT3,T,teacher,other,other,mother,no,no,no,yes,yes,yes,yes,yes,16,4,3,1,2,1,3,2,1,1,1,4,14,15,Very Low
+GP,F,U,GT3,T,at_home,other,home,mother,no,yes,no,no,yes,yes,no,no,16,1,1,2,1,4,3,2,1,4,5,2,12,13,Other
+GP,F,U,GT3,A,other,other,reputation,mother,yes,yes,no,no,yes,yes,yes,no,16,2,2,1,2,3,3,4,1,1,4,0,13,13,Very Low
+GP,F,U,GT3,T,services,teacher,other,mother,yes,no,no,no,yes,yes,yes,no,16,2,3,1,2,2,3,1,1,1,3,0,13,13,Very Low
+GP,F,U,GT3,T,teacher,services,home,mother,no,yes,no,yes,no,yes,yes,no,16,4,4,1,3,5,3,2,1,1,5,4,15,16,Very Low
+GP,M,U,GT3,T,health,other,reputation,father,no,yes,no,yes,yes,yes,yes,no,16,4,4,1,2,4,2,4,2,4,1,0,13,13,Other
+GP,M,U,LE3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,no,16,1,1,2,2,3,4,2,1,1,5,2,9,9,Very Low
+GP,M,U,GT3,T,at_home,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,16,3,2,2,3,5,3,3,1,3,2,0,12,12,Other
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,yes,16,2,1,1,1,4,5,2,1,1,5,4,9,10,Very Low
+GP,F,U,GT3,A,other,other,home,mother,no,no,no,yes,yes,yes,yes,yes,16,4,1,1,2,5,3,3,1,2,5,0,14,13,Other
+GP,F,U,GT3,T,other,other,course,mother,no,no,no,no,yes,no,yes,no,16,1,2,1,1,5,3,5,1,2,5,4,12,11,Other
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,yes,no,yes,yes,no,16,4,3,1,1,5,4,5,1,1,3,7,14,14,Very Low
+GP,M,U,GT3,T,services,services,course,mother,no,no,yes,yes,yes,yes,yes,no,16,4,4,1,1,5,3,2,1,2,5,4,14,15,Other
+GP,M,U,GT3,T,other,other,course,mother,no,no,no,no,yes,yes,yes,no,16,2,1,3,1,4,3,3,1,1,4,7,15,16,Very Low
+GP,M,U,GT3,T,other,other,other,mother,no,no,no,no,no,yes,yes,no,16,0,2,1,1,4,3,2,2,4,5,0,11,12,Other
+GP,M,U,GT3,T,at_home,other,reputation,other,yes,yes,no,no,no,yes,yes,no,16,3,3,3,2,5,3,3,1,3,2,4,9,11,Other
+GP,M,R,GT3,T,other,other,course,mother,no,no,no,yes,no,yes,no,no,16,2,1,2,1,3,3,2,1,3,3,2,14,13,Other
+MS,F,U,GT3,T,at_home,other,other,father,no,yes,no,no,yes,no,yes,yes,16,1,3,2,1,4,3,3,1,3,5,11,10,11,Other
+MS,F,R,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,no,16,2,2,2,2,4,4,4,1,1,5,0,12,12,Very Low
+MS,F,R,GT3,T,at_home,services,course,mother,no,no,no,no,yes,yes,no,no,16,2,3,2,2,4,5,2,1,2,5,0,16,17,Other
+MS,M,R,LE3,A,at_home,other,home,mother,no,yes,no,no,yes,yes,no,no,16,4,4,1,2,5,3,2,1,3,2,5,10,11,Other
+MS,M,U,GT3,A,other,other,other,mother,yes,no,no,no,yes,yes,yes,no,16,1,2,1,3,4,4,3,1,1,5,0,10,11,Very Low
+MS,F,U,LE3,A,at_home,other,reputation,mother,no,no,no,yes,no,no,no,yes,16,2,2,2,4,1,2,1,1,1,1,4,10,9,Very Low
+MS,F,R,GT3,T,other,other,other,mother,no,yes,no,yes,yes,yes,no,no,16,0,2,2,1,3,2,3,1,2,2,0,12,11,Other
+MS,M,U,GT3,T,at_home,services,home,mother,no,yes,no,yes,yes,yes,no,yes,16,1,1,2,2,5,4,5,4,5,3,0,7,0,Other
+MS,M,R,GT3,T,other,health,other,mother,no,no,no,no,no,yes,no,no,16,3,4,3,2,3,4,5,1,2,5,4,9,10,Other
+MS,F,R,GT3,T,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,yes,16,4,4,2,3,4,2,2,1,1,4,6,16,16,Very Low
+MS,F,R,GT3,T,other,services,course,mother,no,yes,no,no,yes,yes,yes,no,16,2,3,3,2,4,5,4,1,2,1,2,15,15,Other
+MS,M,R,GT3,T,other,other,course,father,no,no,no,no,yes,yes,no,no,16,1,2,2,2,4,3,3,1,1,5,0,10,11,Very Low
+MS,F,R,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,yes,no,16,2,2,3,2,4,4,5,1,1,4,4,9,10,Very Low
+MS,F,U,GT3,T,other,services,course,mother,no,yes,no,no,yes,yes,no,no,16,1,2,1,3,1,3,2,1,2,4,0,10,8,Other
+MS,F,U,GT3,T,other,services,course,mother,no,yes,no,no,yes,yes,no,no,16,1,2,1,3,1,3,2,1,2,4,3,9,8,Other
+MS,F,U,GT3,T,at_home,other,course,father,no,yes,no,no,no,yes,no,yes,16,1,1,1,2,5,4,3,2,1,2,0,13,14,Other
+MS,F,R,GT3,T,other,other,home,father,no,yes,no,no,no,yes,yes,no,16,1,1,4,4,4,3,2,1,1,1,0,13,10,Very Low
+MS,F,R,GT3,T,at_home,other,other,father,yes,yes,no,no,yes,yes,no,no,16,1,1,4,3,4,4,3,1,1,5,2,10,9,Very Low
+MS,F,R,GT3,T,at_home,other,other,mother,no,no,no,yes,yes,yes,yes,yes,16,1,1,2,1,4,2,2,4,3,2,0,13,12,Other
+MS,M,R,GT3,T,at_home,other,other,father,no,no,no,yes,yes,yes,no,no,16,1,1,2,1,3,4,4,3,4,5,6,11,11,Other
+MS,F,R,GT3,T,other,services,course,father,no,yes,no,yes,yes,yes,yes,no,16,2,2,3,2,5,3,4,1,1,2,1,14,13,Very Low
+MS,M,U,GT3,T,other,teacher,course,father,no,yes,no,yes,yes,yes,no,yes,16,4,4,1,2,4,3,1,1,1,3,0,13,12,Very Low
+MS,F,R,GT3,T,at_home,other,course,mother,no,yes,no,yes,no,yes,no,no,16,2,2,2,2,4,4,4,2,3,5,2,12,11,Other
+MS,F,R,LE3,T,other,other,home,father,no,yes,no,yes,yes,yes,no,yes,16,2,2,3,1,4,3,2,1,1,4,0,14,14,Very Low
+MS,M,U,LE3,T,at_home,services,course,mother,no,yes,no,yes,yes,yes,yes,no,16,2,1,2,1,2,4,3,2,3,4,4,10,8,Other
+MS,F,R,LE3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,yes,16,2,1,1,1,5,4,3,1,1,5,2,10,8,Very Low
+MS,F,R,GT3,T,at_home,other,course,father,yes,yes,no,no,yes,yes,no,no,16,1,1,2,2,3,4,3,1,1,1,0,7,7,Very Low
+MS,F,R,GT3,T,other,other,course,father,no,yes,no,no,yes,no,yes,no,16,2,2,3,2,3,4,5,1,2,1,1,9,10,Other
+MS,F,U,LE3,A,other,other,home,mother,no,yes,no,no,yes,no,no,no,16,2,2,1,1,4,3,4,1,2,1,6,7,7,Other
+MS,F,U,GT3,T,other,services,course,father,no,yes,yes,yes,no,yes,yes,no,16,2,2,1,1,4,4,3,1,4,3,1,9,10,Other
+MS,F,R,GT3,A,health,other,course,mother,no,no,no,no,no,yes,no,yes,16,2,2,1,2,3,3,2,1,1,3,2,8,10,Very Low
+MS,F,R,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,no,yes,no,16,1,2,1,2,4,4,5,1,3,3,0,8,9,Other
+MS,F,U,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,no,yes,yes,16,3,3,1,1,4,5,4,1,1,4,0,14,13,Very Low
+MS,F,R,LE3,T,services,services,home,mother,no,yes,no,yes,yes,yes,yes,yes,16,1,1,1,1,4,4,4,2,2,4,2,14,14,Low
+MS,F,U,GT3,T,other,services,course,mother,no,yes,no,yes,yes,yes,yes,no,16,2,1,1,2,5,3,3,1,1,1,0,14,13,Very Low
+MS,F,U,GT3,T,services,other,course,mother,no,yes,yes,yes,yes,yes,no,yes,16,2,2,1,1,4,2,5,1,2,5,0,17,16,Other
+MS,M,U,LE3,T,other,other,course,father,no,no,no,yes,yes,yes,yes,no,16,4,3,1,1,4,2,5,1,5,5,8,14,12,Other
+MS,F,U,GT3,T,other,other,course,other,yes,yes,no,yes,yes,yes,yes,no,16,1,1,1,4,2,2,1,1,1,5,0,14,14,Very Low
+MS,F,R,LE3,T,at_home,other,course,father,no,yes,no,no,yes,yes,no,no,16,1,1,3,2,5,3,2,1,1,1,0,16,17,Very Low
+MS,F,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,no,16,3,1,1,1,3,1,3,1,3,1,0,8,6,Other
+MS,F,U,GT3,T,services,at_home,course,mother,no,no,no,no,yes,yes,yes,no,16,3,2,1,1,3,1,3,1,4,3,2,7,6,Other
+MS,F,R,GT3,T,health,teacher,reputation,father,no,no,no,yes,no,yes,yes,yes,16,4,4,1,2,4,3,3,2,3,2,0,14,16,Other
+MS,F,R,LE3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,yes,no,16,1,2,2,1,5,4,5,1,4,2,0,14,14,Other
+MS,M,R,GT3,T,other,services,reputation,mother,no,no,no,yes,yes,yes,yes,no,16,2,1,2,2,5,2,1,1,1,2,0,8,7,Very Low
+MS,F,U,LE3,T,at_home,other,other,mother,no,yes,no,no,yes,yes,yes,no,16,1,1,3,2,4,3,2,1,3,5,6,6,8,Other
+MS,F,R,GT3,T,at_home,services,other,mother,no,yes,no,yes,yes,yes,yes,no,16,2,3,2,2,3,3,3,1,1,2,0,8,10,Very Low
+MS,F,U,GT3,T,health,health,course,mother,no,yes,no,no,yes,yes,yes,yes,16,4,4,1,2,4,3,4,1,2,3,4,8,8,Other
+MS,F,R,LE3,T,at_home,other,other,mother,no,yes,no,no,no,yes,no,no,16,3,4,3,2,4,2,1,1,1,2,2,7,9,Very Low
+MS,M,U,LE3,T,services,services,other,mother,no,no,no,no,yes,yes,no,no,16,2,2,4,3,5,1,3,2,2,3,0,10,9,Low
+MS,F,U,LE3,T,services,services,other,father,no,yes,no,no,yes,yes,no,no,16,4,4,2,1,5,1,3,1,2,5,1,11,11,Other
+MS,M,U,GT3,T,health,services,other,mother,no,no,no,no,no,yes,yes,yes,16,2,1,2,2,4,2,2,1,4,5,2,9,7,Other
+MS,F,U,LE3,T,other,services,other,mother,no,no,no,no,yes,yes,yes,yes,16,2,1,1,2,3,2,2,1,1,3,0,14,15,Very Low
+MS,M,U,LE3,T,teacher,health,other,father,no,yes,no,no,yes,yes,yes,no,16,4,4,1,1,4,1,2,2,5,5,0,11,12,Other
+MS,F,R,LE3,T,other,other,course,mother,no,yes,no,no,no,yes,no,yes,16,2,2,1,3,4,3,3,2,2,5,2,11,11,Low
+MS,F,U,LE3,T,other,other,home,mother,no,yes,no,yes,yes,yes,yes,no,16,4,1,2,2,1,2,4,2,2,1,8,9,10,Low
+MS,F,U,GT3,T,teacher,services,course,mother,no,yes,no,no,yes,yes,yes,yes,16,4,4,2,3,5,3,5,1,4,5,1,10,11,Other
+MS,M,R,LE3,T,other,at_home,other,father,no,no,no,no,yes,yes,yes,no,16,4,1,1,1,4,1,2,2,1,2,0,10,11,Other
+MS,M,U,LE3,A,other,services,course,father,no,yes,no,no,no,yes,yes,yes,16,2,2,2,2,4,1,2,2,2,5,0,12,13,Low
+MS,F,R,GT3,T,other,other,home,father,yes,yes,no,no,no,yes,yes,yes,16,1,2,1,3,4,3,4,1,1,3,5,13,14,Very Low
+MS,M,R,LE3,T,other,at_home,course,mother,no,no,no,no,yes,yes,no,no,16,1,2,1,1,4,4,4,2,4,5,4,9,10,Other
+MS,F,R,LE3,T,other,services,course,father,no,no,no,yes,yes,yes,no,yes,16,2,2,1,2,5,4,3,1,1,1,0,11,13,Very Low
+MS,M,R,GT3,T,services,other,course,father,no,no,no,no,yes,yes,yes,no,16,3,2,2,1,4,5,5,2,3,5,2,11,9,Other
+MS,M,R,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,yes,no,16,1,1,2,1,4,5,5,2,4,5,0,10,10,Other
+MS,M,R,GT3,T,services,services,course,mother,no,yes,no,yes,yes,yes,yes,yes,16,2,2,2,1,5,4,3,2,4,4,6,7,8,Other
+MS,F,U,GT3,A,services,at_home,course,mother,no,yes,no,yes,yes,yes,no,yes,16,3,2,2,2,2,5,5,1,1,1,8,5,5,Very Low
