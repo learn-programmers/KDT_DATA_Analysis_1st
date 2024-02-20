@@ -1,0 +1,12 @@
+데이터 전처리
+gender, country 컬럼은 숫자형태로 변경
+# France = 0, Spain = 1
+enc = LabelEncoder()
+enc.fit(df['country'])
+enc_country = enc.transform(df['country'])
+df['country'] = enc_country 
+
+# Female = 0, Male =1
+enc.fit(df['gender'])
+enc_gender = enc.transform(df['gender'])
+df['gender'] = enc_gender
