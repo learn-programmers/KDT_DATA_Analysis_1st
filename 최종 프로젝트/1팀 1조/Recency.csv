@@ -1,0 +1,1001 @@
+Customer_ID,Transaction_ID,Transaction_Date,Product_ID,Product_Category,Quantity,Average_Amount,Shipping_Fee,Coupon_Status,Gender,Customer_Region,Membership_Duration
+USER_1358,Transaction_0000,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0001,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0002,2019-01-01,Product_0904,Office,1,2.05,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0003,2019-01-01,Product_0203,Apparel,5,17.53,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0003,2019-01-01,Product_0848,Bags,1,16.5,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0003,2019-01-01,Product_0854,Bags,15,5.15,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0003,2019-01-01,Product_0880,Drinkware,15,3.08,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0003,2019-01-01,Product_0885,Drinkware,15,10.31,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0003,2019-01-01,Product_0898,Drinkware,5,9.27,6.5,Used,남,Chicago,12
+USER_0190,Transaction_0003,2019-01-01,Product_0914,Office,52,0.98,6.5,Used,남,California,43
+USER_0190,Transaction_0003,2019-01-01,Product_0966,Office,31,1.99,6.5,Clicked,남,California,43
+USER_0190,Transaction_0003,2019-01-01,Product_0970,Office,31,1.99,6.5,Clicked,남,California,43
+USER_0190,Transaction_0003,2019-01-01,Product_1025,Apparel,5,17.53,6.5,Used,남,California,43
+USER_0190,Transaction_0004,2019-01-01,Product_0983,Nest-USA,2,122.77,6.5,Clicked,남,California,43
+USER_0190,Transaction_0004,2019-01-01,Product_0985,Nest-USA,1,81.5,6.5,Used,남,California,43
+USER_0190,Transaction_0005,2019-01-01,Product_0310,Apparel,1,14.02,6.5,Used,남,California,43
+USER_0190,Transaction_0005,2019-01-01,Product_0486,Apparel,1,14.02,6.5,Clicked,남,California,43
+USER_0190,Transaction_0005,2019-01-01,Product_0900,Drinkware,1,10.72,6.5,"Not Used",남,California,43
+USER_0190,Transaction_0006,2019-01-01,Product_0906,Lifestyle,1,9.27,6.5,Clicked,남,California,43
+USER_0190,Transaction_0006,2019-01-01,Product_0914,Office,3,1.02,6.5,Used,남,California,43
+USER_0190,Transaction_0006,2019-01-01,Product_0942,Office,1,2.58,6.5,"Not Used",남,California,43
+USER_0190,Transaction_0006,2019-01-01,Product_0949,Office,3,1.55,6.5,Clicked,남,California,43
+USER_0190,Transaction_0006,2019-01-01,Product_0951,Office,1,3.08,6.5,Used,남,California,43
+USER_0190,Transaction_0006,2019-01-01,Product_0968,Office,1,6.18,6.5,Clicked,남,California,43
+USER_0190,Transaction_0007,2019-01-01,Product_0976,Nest-USA,1,122.77,6.5,Used,남,California,43
+USER_0190,Transaction_0008,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Used,남,California,43
+USER_0066,Transaction_0009,2019-01-01,Product_0185,Office,1,2.47,102.79,Used,남,Chicago,33
+USER_0066,Transaction_0009,2019-01-01,Product_0879,Drinkware,26,8.72,102.79,Clicked,남,Chicago,33
+USER_0066,Transaction_0009,2019-01-01,Product_0904,Office,1,1.64,102.79,Clicked,남,Chicago,33
+USER_0066,Transaction_0009,2019-01-01,Product_1134,Office,1,1.64,102.79,Clicked,남,Chicago,33
+USER_0066,Transaction_0009,2019-01-01,Product_1142,"Notebooks & Journals",26,7.93,102.79,"Not Used",남,Chicago,33
+USER_0066,Transaction_0010,2019-01-01,Product_0677,Apparel,1,61.89,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0010,2019-01-01,Product_0882,Drinkware,1,15.67,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0011,2019-01-01,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0274,Apparel,1,16.5,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0284,Apparel,1,14.02,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0390,Apparel,1,14.02,6.5,Used,남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0416,Apparel,1,15.67,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0497,Apparel,1,15.67,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0524,Apparel,1,42.91,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0810,Apparel,1,15.67,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0012,2019-01-01,Product_0819,Apparel,1,15.67,6.5,"Not Used",남,Chicago,33
+USER_0066,Transaction_0013,2019-01-01,Product_0849,Bags,3,2.89,6.5,Used,남,Chicago,33
+USER_0066,Transaction_0013,2019-01-01,Product_0907,Lifestyle,1,1.64,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0013,2019-01-01,Product_0920,Headgear,1,20.62,6.5,Clicked,남,Chicago,33
+USER_0066,Transaction_0013,2019-01-01,Product_0930,Office,1,1.64,6.5,Used,남,Chicago,33
+USER_0345,Transaction_0013,2019-01-01,Product_0971,Lifestyle,1,1.24,6.5,Clicked,여,California,30
+USER_1358,Transaction_0013,2019-01-01,Product_0973,Lifestyle,1,1.24,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0013,2019-01-01,Product_0983,Nest-USA,2,122.77,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0014,2019-01-01,Product_0268,Apparel,1,19.59,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0014,2019-01-01,Product_1017,Waze,1,7.21,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0015,2019-01-01,Product_0984,Nest-USA,1,81.5,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0016,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0017,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0018,2019-01-01,Product_0981,Nest-USA,2,153.71,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0019,2019-01-01,Product_0984,Nest-USA,2,81.5,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0020,2019-01-01,Product_0175,Drinkware,10,13.4,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0020,2019-01-01,Product_0181,Drinkware,1,13.4,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0020,2019-01-01,Product_0645,Apparel,1,108.31,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0020,2019-01-01,Product_0847,Bags,10,5.15,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0020,2019-01-01,Product_0919,Headgear,10,22.69,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0020,2019-01-01,Product_0981,Nest-USA,1,256.88,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0020,2019-01-01,Product_1138,Fun,4,9.27,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0021,2019-01-01,Product_0204,Apparel,1,14.02,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0022,2019-01-01,Product_0981,Nest-USA,1,153.71,28.78,Clicked,남,Chicago,12
+USER_0683,Transaction_0023,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,California,49
+USER_1358,Transaction_0024,2019-01-01,Product_0983,Nest-USA,1,122.77,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0025,2019-01-01,Product_1096,Apparel,1,57.76,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0026,2019-01-01,Product_0269,Apparel,1,19.59,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0026,2019-01-01,Product_0904,Office,1,2.05,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0027,2019-01-01,Product_0849,Bags,4,3.61,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0027,2019-01-01,Product_0898,Drinkware,4,9.27,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0028,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0029,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0029,2019-01-01,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0030,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0031,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0031,2019-01-01,Product_0983,Nest-USA,2,122.77,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0032,2019-01-01,Product_0976,Nest-USA,1,122.77,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0032,2019-01-01,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0033,2019-01-01,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0034,2019-01-01,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,12
+USER_0730,Transaction_0035,2019-01-01,Product_0416,Apparel,1,15.67,6.5,Used,남,California,32
+USER_0730,Transaction_0035,2019-01-01,Product_0638,Apparel,1,61.89,6.5,Clicked,남,California,32
+USER_1358,Transaction_0036,2019-01-01,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0037,2019-01-01,Product_0983,Nest-USA,2,122.77,6.5,Clicked,남,Chicago,12
+USER_0585,Transaction_0038,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0039,2019-01-01,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0040,2019-01-01,Product_0981,Nest-USA,1,153.71,6.5,Used,여,"New York",46
+USER_0585,Transaction_0041,2019-01-02,Product_0925,Headgear,2,19.59,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0042,2019-01-02,Product_0195,Lifestyle,2,3.29,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0043,2019-01-02,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",여,"New York",46
+USER_0585,Transaction_0044,2019-01-02,Product_0982,Nest-Canada,1,205.3,8.7,Used,여,"New York",46
+USER_0585,Transaction_0044,2019-01-02,Product_0987,Nest-Canada,3,107.29,8.7,Clicked,여,"New York",46
+USER_0585,Transaction_0045,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0046,2019-01-02,Product_0863,Backpacks,1,103.15,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0046,2019-01-02,Product_0864,Bags,1,103.15,6.5,Used,여,"New York",46
+USER_0585,Transaction_0046,2019-01-02,Product_0902,Office,5,1.55,6.5,"Not Used",여,"New York",46
+USER_0585,Transaction_0046,2019-01-02,Product_0914,Office,26,0.98,6.5,"Not Used",여,"New York",46
+USER_0585,Transaction_0046,2019-01-02,Product_0924,Headgear,2,19.59,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0046,2019-01-02,Product_0925,Headgear,2,19.59,6.5,Used,여,"New York",46
+USER_0585,Transaction_0047,2019-01-02,Product_0988,Nest-Canada,3,107.29,8.7,"Not Used",여,"New York",46
+USER_0585,Transaction_0048,2019-01-02,Product_0982,Nest-Canada,1,205.3,8.7,Clicked,여,"New York",46
+USER_0585,Transaction_0049,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,"New York",46
+USER_0585,Transaction_0050,2019-01-02,Product_0936,Office,1,29.91,6.5,Clicked,여,"New York",46
+USER_1347,Transaction_0050,2019-01-02,Product_0951,Office,1,3.08,6.5,Clicked,여,"New Jersey",24
+USER_0736,Transaction_0051,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",여,Chicago,40
+USER_0736,Transaction_0052,2019-01-02,Product_0608,Apparel,1,24.75,6.5,"Not Used",여,Chicago,40
+USER_0736,Transaction_0052,2019-01-02,Product_0904,Office,1,2.05,6.5,"Not Used",여,Chicago,40
+USER_0736,Transaction_0052,2019-01-02,Product_1134,Office,1,2.05,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0053,2019-01-02,Product_0337,Apparel,1,61.89,6.5,"Not Used",여,Chicago,40
+USER_0736,Transaction_0054,2019-01-02,Product_0979,Nest-Canada,2,153.71,8.7,Used,여,Chicago,40
+USER_0736,Transaction_0054,2019-01-02,Product_0982,Nest-Canada,2,205.3,8.7,Clicked,여,Chicago,40
+USER_0736,Transaction_0055,2019-01-02,Product_0422,Apparel,1,25.78,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0056,2019-01-02,Product_0985,Nest-USA,3,81.5,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0057,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",여,Chicago,40
+USER_0736,Transaction_0058,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0059,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0060,2019-01-02,Product_0876,Drinkware,1,28.05,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0061,2019-01-02,Product_0983,Nest-USA,2,122.77,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0062,2019-01-02,Product_0976,Nest-USA,2,122.77,6.5,"Not Used",여,Chicago,40
+USER_0736,Transaction_0063,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0064,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0065,2019-01-02,Product_0898,Drinkware,1,9.27,20,Clicked,여,Chicago,40
+USER_0736,Transaction_0065,2019-01-02,Product_0951,Office,1,3.08,20,Used,여,Chicago,40
+USER_0736,Transaction_0065,2019-01-02,Product_0954,Office,1,4.12,20,Used,여,Chicago,40
+USER_0736,Transaction_0065,2019-01-02,Product_0963,Office,1,4.12,20,Used,여,Chicago,40
+USER_0736,Transaction_0066,2019-01-02,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0067,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0068,2019-01-02,Product_0904,Office,6,2.05,6.5,"Not Used",여,Chicago,40
+USER_0736,Transaction_0068,2019-01-02,Product_0905,Office,4,3.61,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0068,2019-01-02,Product_0944,Office,57,3.97,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0069,2019-01-02,Product_0971,Lifestyle,6,1.24,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0069,2019-01-02,Product_0972,Lifestyle,1,4.12,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0069,2019-01-02,Product_0974,Lifestyle,1,4.12,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0070,2019-01-02,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0071,2019-01-02,Product_0976,Nest-USA,3,122.77,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0072,2019-01-02,Product_0421,Apparel,1,20.62,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0072,2019-01-02,Product_0561,Apparel,1,19.8,6.5,Used,여,Chicago,40
+USER_0736,Transaction_0072,2019-01-02,Product_0744,Apparel,1,19.8,6.5,Clicked,여,Chicago,40
+USER_0736,Transaction_0072,2019-01-02,Product_0765,Apparel,1,31.35,6.5,Used,여,Chicago,40
+USER_0541,Transaction_0072,2019-01-02,Product_0774,Apparel,1,31.35,6.5,Clicked,남,California,43
+USER_0922,Transaction_0072,2019-01-02,Product_0777,Apparel,1,31.35,6.5,Clicked,남,Chicago,49
+USER_0922,Transaction_0072,2019-01-02,Product_0778,Apparel,1,19.8,6.5,"Not Used",남,Chicago,49
+USER_0922,Transaction_0072,2019-01-02,Product_0781,Apparel,1,19.8,6.5,Clicked,남,Chicago,49
+USER_0922,Transaction_0072,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,Chicago,49
+USER_0922,Transaction_0072,2019-01-02,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",남,Chicago,49
+USER_0922,Transaction_0073,2019-01-02,Product_0984,Nest-USA,2,81.5,6.5,Clicked,남,Chicago,49
+USER_0922,Transaction_0074,2019-01-02,Product_0984,Nest-USA,1,81.5,6.5,"Not Used",남,Chicago,49
+USER_0922,Transaction_0074,2019-01-02,Product_0985,Nest-USA,1,81.5,6.5,Used,남,Chicago,49
+USER_0922,Transaction_0075,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,49
+USER_0922,Transaction_0076,2019-01-02,Product_0134,Apparel,1,14.02,6.5,"Not Used",남,Chicago,49
+USER_0922,Transaction_0076,2019-01-02,Product_0273,Apparel,1,16.5,6.5,"Not Used",남,Chicago,49
+USER_0922,Transaction_0076,2019-01-02,Product_0610,Apparel,1,15.67,6.5,Clicked,남,Chicago,49
+USER_0736,Transaction_0076,2019-01-02,Product_0892,Drinkware,1,20.62,6.5,Clicked,여,Chicago,40
+USER_1421,Transaction_0076,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,10
+USER_1421,Transaction_0077,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,10
+USER_1421,Transaction_0078,2019-01-02,Product_0950,Fun,1,7.42,6.5,Used,여,California,10
+USER_1421,Transaction_0079,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,10
+USER_1421,Transaction_0080,2019-01-02,Product_0007,Apparel,1,20.62,6.5,Clicked,여,California,10
+USER_1421,Transaction_0080,2019-01-02,Product_0032,Apparel,1,19.59,6.5,Clicked,여,California,10
+USER_1421,Transaction_0081,2019-01-02,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,California,10
+USER_1421,Transaction_0082,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,10
+USER_1421,Transaction_0083,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,Used,여,California,10
+USER_1421,Transaction_0084,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,10
+USER_1421,Transaction_0085,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,10
+USER_1421,Transaction_0086,2019-01-02,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,California,10
+USER_1421,Transaction_0087,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,10
+USER_1249,Transaction_0088,2019-01-02,Product_0274,Apparel,1,20.62,6.5,Clicked,여,"New York",19
+USER_1249,Transaction_0088,2019-01-02,Product_0311,Apparel,1,17.53,6.5,"Not Used",여,"New York",19
+USER_1249,Transaction_0089,2019-01-02,Product_0723,Apparel,1,31.35,6.5,"Not Used",여,"New York",19
+USER_1249,Transaction_0090,2019-01-02,Product_0922,Apparel,1,11.34,6.5,Clicked,여,"New York",19
+USER_1249,Transaction_0090,2019-01-02,Product_1021,Waze,1,2.05,6.5,Clicked,여,"New York",19
+USER_1249,Transaction_0091,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,"New York",19
+USER_1249,Transaction_0092,2019-01-02,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,"New York",19
+USER_0906,Transaction_0093,2019-01-02,Product_0976,Nest-USA,2,122.77,6.5,"Not Used",여,"Washington DC",40
+USER_0906,Transaction_0093,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Used,여,"Washington DC",40
+USER_0906,Transaction_0094,2019-01-02,Product_0983,Nest-USA,2,122.77,6.5,"Not Used",여,"Washington DC",40
+USER_0906,Transaction_0095,2019-01-02,Product_0196,Fun,2,7.42,6.5,"Not Used",여,"Washington DC",40
+USER_0906,Transaction_0096,2019-01-02,Product_0907,Lifestyle,5,1.64,6.5,Clicked,여,"Washington DC",40
+USER_0906,Transaction_0096,2019-01-02,Product_1137,Apparel,1,9.07,6.5,Clicked,여,"Washington DC",40
+USER_0906,Transaction_0097,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,"Washington DC",40
+USER_0906,Transaction_0097,2019-01-02,Product_0985,Nest-USA,5,81.5,6.5,Used,여,"Washington DC",40
+USER_0954,Transaction_0098,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",여,California,30
+USER_0954,Transaction_0098,2019-01-02,Product_0981,Nest-USA,4,153.71,6.5,Clicked,여,California,30
+USER_0954,Transaction_0099,2019-01-02,Product_0981,Nest-USA,2,153.71,6.5,Used,여,California,30
+USER_0954,Transaction_0099,2019-01-02,Product_0984,Nest-USA,2,81.5,6.5,"Not Used",여,California,30
+USER_0954,Transaction_0100,2019-01-02,Product_1104,Apparel,1,46.21,6.5,Clicked,여,California,30
+USER_0954,Transaction_0101,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,30
+USER_0954,Transaction_0102,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,30
+USER_0954,Transaction_0103,2019-01-02,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,30
+USER_0954,Transaction_0104,2019-01-02,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,30
+USER_0954,Transaction_0105,2019-01-02,Product_0851,Bags,1,16.5,17.96,Clicked,여,California,30
+USER_0954,Transaction_0105,2019-01-02,Product_0886,Google,1,11.54,17.96,Clicked,여,California,30
+USER_0954,Transaction_0105,2019-01-02,Product_0907,Lifestyle,1,1.64,17.96,Used,여,California,30
+USER_0954,Transaction_0105,2019-01-02,Product_0916,Lifestyle,1,2.89,17.96,Used,여,California,30
+USER_0954,Transaction_0105,2019-01-02,Product_0918,Lifestyle,1,2.89,17.96,Used,여,California,30
+USER_0025,Transaction_0106,2019-01-02,Product_1095,Apparel,1,46.21,6.5,Used,여,"New Jersey",14
+USER_0025,Transaction_0107,2019-01-02,Product_0985,Nest-USA,1,81.5,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0108,2019-01-02,Product_0976,Nest-USA,2,122.77,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0109,2019-01-02,Product_0981,Nest-USA,2,153.71,6.5,Used,여,"New Jersey",14
+USER_0025,Transaction_0110,2019-01-02,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0110,2019-01-02,Product_0985,Nest-USA,3,81.5,6.5,Used,여,"New Jersey",14
+USER_0025,Transaction_0111,2019-01-02,Product_0983,Nest-USA,1,122.77,6.5,Used,여,"New Jersey",14
+USER_0025,Transaction_0112,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0112,2019-01-03,Product_0985,Nest-USA,1,81.5,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0113,2019-01-03,Product_0377,Apparel,1,61.89,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0113,2019-01-03,Product_1087,Apparel,1,28.88,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0114,2019-01-03,Product_0984,Nest-USA,3,102.13,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0115,2019-01-03,Product_0981,Nest-USA,4,153.71,6.5,Clicked,여,"New Jersey",14
+USER_0025,Transaction_0116,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,"New Jersey",14
+USER_1267,Transaction_0117,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,Chicago,25
+USER_1267,Transaction_0118,2019-01-03,Product_0181,Drinkware,1,10.72,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0118,2019-01-03,Product_0864,Bags,1,82.52,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0119,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,Chicago,25
+USER_1267,Transaction_0120,2019-01-03,Product_0373,Apparel,1,61.89,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0121,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",여,Chicago,25
+USER_1267,Transaction_0122,2019-01-03,Product_0185,Office,1,2.47,6.5,Used,여,Chicago,25
+USER_1267,Transaction_0122,2019-01-03,Product_0594,Apparel,1,14.02,6.5,"Not Used",여,Chicago,25
+USER_1267,Transaction_0122,2019-01-03,Product_0761,Apparel,1,14.02,6.5,Used,여,Chicago,25
+USER_1267,Transaction_0122,2019-01-03,Product_0768,Apparel,1,14.02,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0122,2019-01-03,Product_0904,Office,1,1.64,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0123,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0124,2019-01-03,Product_0981,Nest-USA,2,153.71,6.5,Used,여,Chicago,25
+USER_1267,Transaction_0124,2019-01-03,Product_0985,Nest-USA,2,81.5,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0125,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Used,여,Chicago,25
+USER_1267,Transaction_0126,2019-01-03,Product_0192,Headgear,1,18.15,6.5,Used,여,Chicago,25
+USER_1267,Transaction_0127,2019-01-03,Product_1132,Drinkware,2,6.59,24.47,Clicked,여,Chicago,25
+USER_1267,Transaction_0127,2019-01-03,Product_1134,Office,4,1.64,24.47,Used,여,Chicago,25
+USER_1267,Transaction_0127,2019-01-03,Product_1137,Apparel,3,9.07,24.47,Used,여,Chicago,25
+USER_1267,Transaction_0127,2019-01-03,Product_1143,Office,2,5.77,24.47,Used,여,Chicago,25
+USER_1267,Transaction_0128,2019-01-03,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0129,2019-01-03,Product_0915,Lifestyle,1,3.61,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0129,2019-01-03,Product_0916,Lifestyle,1,3.61,6.5,Clicked,여,Chicago,25
+USER_1267,Transaction_0129,2019-01-03,Product_0918,Lifestyle,1,3.61,6.5,Used,여,Chicago,25
+USER_1277,Transaction_0130,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,50
+USER_1277,Transaction_0131,2019-01-03,Product_0981,Nest-USA,2,153.71,6.5,Used,남,Chicago,50
+USER_1277,Transaction_0131,2019-01-03,Product_1021,Waze,3,1.64,6.5,Clicked,남,Chicago,50
+USER_1277,Transaction_0132,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,Chicago,50
+USER_1277,Transaction_0133,2019-01-03,Product_0904,Office,1,2.05,6.5,Clicked,남,Chicago,50
+USER_1277,Transaction_0133,2019-01-03,Product_0970,Office,1,2.05,6.5,Clicked,남,Chicago,50
+USER_1277,Transaction_0133,2019-01-03,Product_1134,Office,1,2.05,6.5,Used,남,Chicago,50
+USER_0337,Transaction_0133,2019-01-03,Product_1137,Apparel,1,11.34,6.5,Used,여,Chicago,39
+USER_0337,Transaction_0133,2019-01-03,Product_1143,Office,1,7.21,6.5,Clicked,여,Chicago,39
+USER_0337,Transaction_0134,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,Chicago,39
+USER_0337,Transaction_0135,2019-01-03,Product_0981,Nest-USA,2,153.71,6.5,Used,여,Chicago,39
+USER_0337,Transaction_0136,2019-01-03,Product_0184,Office,1,1.64,6.5,"Not Used",여,Chicago,39
+USER_0337,Transaction_0136,2019-01-03,Product_0880,Drinkware,2,2.47,6.5,Clicked,여,Chicago,39
+USER_0337,Transaction_0136,2019-01-03,Product_0930,Office,2,1.64,6.5,Used,여,Chicago,39
+USER_0337,Transaction_0137,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Used,여,Chicago,39
+USER_0337,Transaction_0138,2019-01-03,Product_0981,Nest-USA,4,153.71,6.5,Clicked,여,Chicago,39
+USER_0337,Transaction_0139,2019-01-03,Product_0984,Nest-USA,1,81.5,6.5,"Not Used",여,Chicago,39
+USER_0344,Transaction_0140,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,Chicago,21
+USER_0281,Transaction_0141,2019-01-03,Product_0391,Apparel,1,14.02,6.5,Used,남,Chicago,30
+USER_0281,Transaction_0141,2019-01-03,Product_0487,Apparel,1,14.02,6.5,Used,남,Chicago,30
+USER_0281,Transaction_0142,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,30
+USER_0281,Transaction_0143,2019-01-03,Product_0979,Nest-Canada,1,153.71,8.7,Clicked,남,Chicago,30
+USER_0281,Transaction_0144,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Used,남,Chicago,30
+USER_0281,Transaction_0145,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,30
+USER_0281,Transaction_0146,2019-01-03,Product_0181,Drinkware,6,10.72,35.96,Clicked,남,Chicago,30
+USER_0281,Transaction_0146,2019-01-03,Product_0864,Bags,1,82.52,35.96,Clicked,남,Chicago,30
+USER_0281,Transaction_0146,2019-01-03,Product_0985,Nest-USA,1,81.5,35.96,Used,남,Chicago,30
+USER_0281,Transaction_0147,2019-01-03,Product_0862,Lifestyle,1,27.84,6.5,Clicked,남,Chicago,30
+USER_0281,Transaction_0148,2019-01-03,Product_0926,Headgear,10,15.67,18.47,"Not Used",남,Chicago,30
+USER_0351,Transaction_0149,2019-01-03,Product_0898,Drinkware,2,7.42,6.5,Used,여,Chicago,29
+USER_0351,Transaction_0149,2019-01-03,Product_0908,Drinkware,1,1.64,6.5,"Not Used",여,Chicago,29
+USER_0351,Transaction_0149,2019-01-03,Product_0970,Office,1,1.64,6.5,Clicked,여,Chicago,29
+USER_0351,Transaction_0150,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,Chicago,29
+USER_0351,Transaction_0150,2019-01-03,Product_0984,Nest-USA,2,81.5,6.5,Used,여,Chicago,29
+USER_0351,Transaction_0151,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,Chicago,29
+USER_0351,Transaction_0152,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,Chicago,29
+USER_0351,Transaction_0153,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",여,Chicago,29
+USER_0351,Transaction_0154,2019-01-03,Product_0976,Nest-USA,2,122.77,6.5,Clicked,여,Chicago,29
+USER_0351,Transaction_0155,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,Chicago,29
+USER_0351,Transaction_0156,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,Chicago,29
+USER_0351,Transaction_0157,2019-01-03,Product_0849,Bags,4,2.89,28.78,Clicked,여,Chicago,29
+USER_0351,Transaction_0157,2019-01-03,Product_0891,Drinkware,4,20.62,28.78,Clicked,여,Chicago,29
+USER_0351,Transaction_0157,2019-01-03,Product_0942,Office,4,2.06,28.78,Clicked,여,Chicago,29
+USER_1358,Transaction_0157,2019-01-03,Product_0952,Office,4,9.07,28.78,Used,남,Chicago,12
+USER_1358,Transaction_0158,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0159,2019-01-03,Product_0983,Nest-USA,2,122.77,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0160,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0161,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0162,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0163,2019-01-03,Product_0892,Drinkware,26,19.83,74.74,"Not Used",남,Chicago,12
+USER_1358,Transaction_0163,2019-01-03,Product_0904,Office,5,1.64,74.74,Clicked,남,Chicago,12
+USER_1358,Transaction_0163,2019-01-03,Product_0905,Office,3,2.89,74.74,Clicked,남,Chicago,12
+USER_1358,Transaction_0163,2019-01-03,Product_1134,Office,5,1.64,74.74,Clicked,남,Chicago,12
+USER_1358,Transaction_0163,2019-01-03,Product_1143,Office,26,5.55,74.74,Clicked,남,Chicago,12
+USER_1358,Transaction_0164,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0165,2019-01-03,Product_0034,Apparel,1,19.59,35.3,Clicked,남,Chicago,12
+USER_1358,Transaction_0165,2019-01-03,Product_0044,Apparel,1,19.59,35.3,Clicked,남,Chicago,12
+USER_1358,Transaction_0165,2019-01-03,Product_0260,Apparel,1,22.69,35.3,Clicked,남,Chicago,12
+USER_1358,Transaction_0165,2019-01-03,Product_0301,Apparel,1,19.59,35.3,Clicked,남,Chicago,12
+USER_1358,Transaction_0165,2019-01-03,Product_0526,Apparel,1,53.64,35.3,Clicked,남,Chicago,12
+USER_1358,Transaction_0165,2019-01-03,Product_0874,Lifestyle,1,12.37,35.3,Used,남,Chicago,12
+USER_1383,Transaction_0165,2019-01-03,Product_0922,Apparel,1,11.34,35.3,"Not Used",남,"New Jersey",26
+USER_1383,Transaction_0166,2019-01-03,Product_0981,Nest-USA,1,153.71,28.78,Clicked,남,"New Jersey",26
+USER_0284,Transaction_0167,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,41
+USER_0284,Transaction_0168,2019-01-03,Product_0904,Office,1,2.05,6.5,Clicked,여,California,41
+USER_0284,Transaction_0168,2019-01-03,Product_0915,Lifestyle,1,3.61,6.5,Clicked,여,California,41
+USER_0284,Transaction_0168,2019-01-03,Product_0916,Lifestyle,1,3.61,6.5,Clicked,여,California,41
+USER_0284,Transaction_0168,2019-01-03,Product_0917,Lifestyle,1,3.61,6.5,Clicked,여,California,41
+USER_0284,Transaction_0168,2019-01-03,Product_0918,Lifestyle,1,3.61,6.5,Used,여,California,41
+USER_0284,Transaction_0169,2019-01-03,Product_0849,Bags,4,3.61,20.78,Clicked,여,California,41
+USER_0284,Transaction_0169,2019-01-03,Product_0898,Drinkware,4,9.27,20.78,Clicked,여,California,41
+USER_0284,Transaction_0170,2019-01-03,Product_0880,Drinkware,10,2.47,18.47,Clicked,여,California,41
+USER_0284,Transaction_0170,2019-01-03,Product_0894,Drinkware,15,2.47,18.47,Clicked,여,California,41
+USER_0284,Transaction_0170,2019-01-03,Product_0948,Office,103,1,18.47,Clicked,여,California,41
+USER_0284,Transaction_0171,2019-01-03,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,41
+USER_0284,Transaction_0172,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,41
+USER_0284,Transaction_0173,2019-01-03,Product_0181,Drinkware,6,10.72,13.78,Clicked,여,California,41
+USER_0284,Transaction_0174,2019-01-03,Product_0979,Nest-Canada,1,153.71,8.7,Clicked,여,California,41
+USER_0284,Transaction_0175,2019-01-03,Product_0855,Bags,3,12.37,35.3,Clicked,여,California,41
+USER_0284,Transaction_0175,2019-01-03,Product_0886,Google,3,11.54,35.3,Used,여,California,41
+USER_1358,Transaction_0175,2019-01-03,Product_0904,Office,6,1.64,35.3,Used,남,Chicago,12
+USER_1358,Transaction_0175,2019-01-03,Product_0965,Office,3,8.24,35.3,"Not Used",남,Chicago,12
+USER_0284,Transaction_0176,2019-01-03,Product_0942,Office,62,2,122.74,Clicked,여,California,41
+USER_0867,Transaction_0176,2019-01-03,Product_0956,"Notebooks & Journals",62,15.96,122.74,Used,여,California,24
+USER_0867,Transaction_0177,2019-01-03,Product_0269,Apparel,1,15.67,12.76,"Not Used",여,California,24
+USER_0867,Transaction_0177,2019-01-03,Product_0284,Apparel,1,14.02,12.76,Clicked,여,California,24
+USER_0867,Transaction_0177,2019-01-03,Product_0310,Apparel,1,14.02,12.76,Used,여,California,24
+USER_0867,Transaction_0178,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,24
+USER_0867,Transaction_0179,2019-01-03,Product_0982,Nest-Canada,1,205.3,8.7,Clicked,여,California,24
+USER_0867,Transaction_0180,2019-01-03,Product_0177,Bottles,62,2.39,210.44,Clicked,여,California,24
+USER_0867,Transaction_0180,2019-01-03,Product_0848,Bags,12,13.19,210.44,Clicked,여,California,24
+USER_0867,Transaction_0180,2019-01-03,Product_0854,Bags,62,3.98,210.44,Clicked,여,California,24
+USER_0867,Transaction_0180,2019-01-03,Product_0873,Bags,1,18.15,210.44,Used,여,California,24
+USER_0867,Transaction_0180,2019-01-03,Product_0942,Office,62,2,210.44,Used,여,California,24
+USER_0867,Transaction_0181,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",여,California,24
+USER_0867,Transaction_0182,2019-01-03,Product_1000,Waze,1,19.59,16.65,Clicked,여,California,24
+USER_0867,Transaction_0182,2019-01-03,Product_1020,Waze,1,2.05,16.65,Used,여,California,24
+USER_0867,Transaction_0183,2019-01-03,Product_0984,Nest-USA,5,81.5,6.5,Used,여,California,24
+USER_0867,Transaction_0184,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Used,여,California,24
+USER_0867,Transaction_0185,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",여,California,24
+USER_0867,Transaction_0186,2019-01-03,Product_0984,Nest-USA,2,81.5,6.5,Clicked,여,California,24
+USER_0867,Transaction_0187,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0188,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0188,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0189,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0190,2019-01-03,Product_0984,Nest-USA,2,81.5,6.5,Used,여,California,24
+USER_0867,Transaction_0190,2019-01-03,Product_0985,Nest-USA,1,81.5,6.5,Used,여,California,24
+USER_0867,Transaction_0191,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,24
+USER_0867,Transaction_0192,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,24
+USER_0867,Transaction_0193,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0194,2019-01-03,Product_0976,Nest-USA,2,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0194,2019-01-03,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0195,2019-01-03,Product_0269,Apparel,1,19.59,6.5,Clicked,여,California,24
+USER_0867,Transaction_0195,2019-01-03,Product_0311,Apparel,1,17.53,6.5,Used,여,California,24
+USER_0867,Transaction_0195,2019-01-03,Product_0552,Apparel,1,19.59,6.5,"Not Used",여,California,24
+USER_0867,Transaction_0195,2019-01-03,Product_0868,Lifestyle,1,7.21,6.5,Clicked,여,California,24
+USER_0867,Transaction_0196,2019-01-03,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0197,2019-01-03,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0198,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0199,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0200,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0201,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0202,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0203,2019-01-03,Product_0239,Apparel,1,15.67,6.5,Used,여,California,24
+USER_0867,Transaction_0203,2019-01-03,Product_0359,Apparel,1,61.89,6.5,Clicked,여,California,24
+USER_0867,Transaction_0203,2019-01-03,Product_0423,Apparel,1,20.62,6.5,Clicked,여,California,24
+USER_0867,Transaction_0203,2019-01-03,Product_0493,Apparel,1,15.67,6.5,Clicked,여,California,24
+USER_0867,Transaction_0203,2019-01-03,Product_0521,Apparel,1,46.21,6.5,Clicked,여,California,24
+USER_0867,Transaction_0203,2019-01-03,Product_0687,Apparel,1,53.64,6.5,Used,여,California,24
+USER_0867,Transaction_0204,2019-01-03,Product_0610,Apparel,1,15.67,6.5,Clicked,여,California,24
+USER_0867,Transaction_0204,2019-01-03,Product_0632,Apparel,1,99.03,6.5,Clicked,여,California,24
+USER_0867,Transaction_0204,2019-01-03,Product_0663,Apparel,1,115.53,6.5,"Not Used",여,California,24
+USER_0867,Transaction_0204,2019-01-03,Product_0920,Headgear,1,20.62,6.5,Clicked,여,California,24
+USER_0867,Transaction_0205,2019-01-03,Product_0985,Nest-USA,1,81.5,6.5,"Not Used",여,California,24
+USER_0867,Transaction_0206,2019-01-03,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,24
+USER_0867,Transaction_0206,2019-01-03,Product_0984,Nest-USA,1,81.5,6.5,Used,여,California,24
+USER_0867,Transaction_0207,2019-01-03,Product_0898,Drinkware,1,7.42,6.5,Used,여,California,24
+USER_0867,Transaction_0207,2019-01-03,Product_0932,Office,2,4.12,6.5,Used,여,California,24
+USER_0867,Transaction_0208,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0209,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0210,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",여,California,24
+USER_0867,Transaction_0211,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0212,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,24
+USER_0867,Transaction_0213,2019-01-03,Product_0984,Nest-USA,2,81.5,6.5,Used,여,California,24
+USER_0867,Transaction_0213,2019-01-03,Product_0985,Nest-USA,1,81.5,6.5,Used,여,California,24
+USER_0867,Transaction_0214,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,24
+USER_0867,Transaction_0215,2019-01-03,Product_0985,Nest-USA,1,81.5,6.5,Used,여,California,24
+USER_0783,Transaction_0216,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Used,여,Chicago,21
+USER_0783,Transaction_0217,2019-01-03,Product_0981,Nest-USA,4,153.71,6.5,Clicked,여,Chicago,21
+USER_0783,Transaction_0218,2019-01-03,Product_0984,Nest-USA,5,81.5,6.5,"Not Used",여,Chicago,21
+USER_0130,Transaction_0219,2019-01-03,Product_0297,Apparel,1,17.53,6.5,Clicked,여,"Washington DC",26
+USER_0130,Transaction_0220,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Used,여,"Washington DC",26
+USER_0947,Transaction_0221,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0222,2019-01-03,Product_0976,Nest-USA,2,122.77,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0222,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0223,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0224,2019-01-03,Product_0843,Bags,1,11.54,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0224,2019-01-03,Product_0877,Drinkware,1,16.5,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0224,2019-01-03,Product_0898,Drinkware,2,7.42,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0225,2019-01-03,Product_0983,Nest-USA,2,122.77,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0226,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,Chicago,40
+USER_0947,Transaction_0226,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0226,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0227,2019-01-03,Product_0984,Nest-USA,3,81.5,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0228,2019-01-03,Product_0912,"Gift Cards",1,51.58,0,Clicked,남,Chicago,40
+USER_0947,Transaction_0229,2019-01-03,Product_0876,Drinkware,1,28.05,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0230,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0230,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0231,2019-01-03,Product_0981,Nest-USA,2,153.71,6.5,"Not Used",남,Chicago,40
+USER_0947,Transaction_0231,2019-01-03,Product_0984,Nest-USA,3,81.5,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0232,2019-01-03,Product_0981,Nest-USA,2,153.71,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0233,2019-01-03,Product_0977,Nest-USA,1,81.5,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0233,2019-01-03,Product_0981,Nest-USA,1,153.71,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0234,2019-01-03,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0234,2019-01-03,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",남,Chicago,40
+USER_0947,Transaction_0235,2019-01-03,Product_0984,Nest-USA,3,81.5,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0236,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,Used,남,Chicago,40
+USER_0947,Transaction_0236,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0237,2019-01-04,Product_0854,Bags,2,5.15,6.5,Clicked,남,Chicago,40
+USER_0947,Transaction_0237,2019-01-04,Product_0878,Drinkware,1,25.78,6.5,Clicked,남,Chicago,40
+USER_0412,Transaction_0238,2019-01-04,Product_0185,Office,1,2.47,6.5,Clicked,여,California,14
+USER_1358,Transaction_0238,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0238,2019-01-04,Product_0985,Nest-USA,2,81.5,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0239,2019-01-04,Product_0981,Nest-USA,5,153.71,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0240,2019-01-04,Product_0849,Bags,12,2.89,13.78,Used,남,Chicago,12
+USER_1358,Transaction_0240,2019-01-04,Product_0969,Office,12,4.94,13.78,Clicked,남,Chicago,12
+USER_1358,Transaction_0241,2019-01-04,Product_0858,Bags,1,82.52,13.78,"Not Used",남,Chicago,12
+USER_1358,Transaction_0242,2019-01-04,Product_0915,Lifestyle,26,3.47,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0242,2019-01-04,Product_0916,Lifestyle,26,3.47,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0242,2019-01-04,Product_0917,Lifestyle,26,3.47,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0242,2019-01-04,Product_0918,Lifestyle,26,3.47,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0243,2019-01-04,Product_0898,Drinkware,1,7.42,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0243,2019-01-04,Product_0900,Drinkware,1,10.72,6.5,"Not Used",남,Chicago,12
+USER_1358,Transaction_0243,2019-01-04,Product_0915,Lifestyle,1,2.89,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0243,2019-01-04,Product_0917,Lifestyle,1,2.89,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0244,2019-01-04,Product_0175,Drinkware,2,13.4,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0244,2019-01-04,Product_0185,Office,5,3.08,6.5,Used,남,Chicago,12
+USER_1358,Transaction_0244,2019-01-04,Product_0274,Apparel,1,20.62,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0244,2019-01-04,Product_0275,Apparel,1,20.62,6.5,Clicked,남,Chicago,12
+USER_1358,Transaction_0244,2019-01-04,Product_0336,Apparel,1,77.36,6.5,Clicked,남,Chicago,12
+USER_0484,Transaction_0244,2019-01-04,Product_0342,Apparel,1,72.2,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0369,Apparel,1,113.47,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0378,Apparel,1,77.36,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0843,Bags,5,14.43,6.5,Clicked,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0850,"More Bags",3,22.69,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0862,Lifestyle,2,27.84,6.5,Clicked,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0874,Lifestyle,3,12.37,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0892,Drinkware,2,25.78,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0898,Drinkware,4,9.27,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0904,Office,5,2.05,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0906,Lifestyle,5,9.27,6.5,"Not Used",여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0908,Drinkware,10,2.05,6.5,Used,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0924,Headgear,1,19.59,6.5,Clicked,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0943,Office,26,3.47,6.5,Clicked,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_0970,Office,5,2.05,6.5,Clicked,여,California,28
+USER_0484,Transaction_0244,2019-01-04,Product_1132,Drinkware,3,8.24,6.5,Used,여,California,28
+USER_0484,Transaction_0245,2019-01-04,Product_0347,Apparel,1,77.36,6.5,Used,여,California,28
+USER_0484,Transaction_0246,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,28
+USER_0484,Transaction_0247,2019-01-04,Product_0728,Apparel,1,19.8,11.1,Clicked,여,California,28
+USER_0484,Transaction_0248,2019-01-04,Product_0728,Apparel,1,19.8,11.1,Used,여,California,28
+USER_0484,Transaction_0249,2019-01-04,Product_0497,Apparel,1,19.59,6.5,Clicked,여,California,28
+USER_0484,Transaction_0250,2019-01-04,Product_0979,Nest-Canada,2,153.71,8.7,Used,여,California,28
+USER_0484,Transaction_0250,2019-01-04,Product_0986,Nest-Canada,1,153.71,8.7,Used,여,California,28
+USER_0484,Transaction_0250,2019-01-04,Product_0988,Nest-Canada,1,107.29,8.7,Clicked,여,California,28
+USER_0484,Transaction_0251,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,28
+USER_0484,Transaction_0252,2019-01-04,Product_0336,Apparel,1,77.36,6.5,Clicked,여,California,28
+USER_0484,Transaction_0252,2019-01-04,Product_0922,Apparel,1,11.34,6.5,"Not Used",여,California,28
+USER_0484,Transaction_0253,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,28
+USER_0484,Transaction_0254,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,28
+USER_0484,Transaction_0255,2019-01-04,Product_0891,Drinkware,1,20.62,6.5,"Not Used",여,California,28
+USER_0484,Transaction_0255,2019-01-04,Product_0944,Office,10,3.29,6.5,Used,여,California,28
+USER_0484,Transaction_0256,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,28
+USER_0484,Transaction_0257,2019-01-04,Product_0969,Office,3,4.94,11.1,Used,여,California,28
+USER_0484,Transaction_0258,2019-01-04,Product_0984,Nest-USA,1,81.5,6.5,Used,여,California,28
+USER_0484,Transaction_0258,2019-01-04,Product_0985,Nest-USA,1,81.5,6.5,Clicked,여,California,28
+USER_0484,Transaction_0259,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,28
+USER_0484,Transaction_0260,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,28
+USER_0484,Transaction_0261,2019-01-04,Product_0943,Office,41,2.82,50.74,Clicked,여,California,28
+USER_0484,Transaction_0261,2019-01-04,Product_0952,Office,41,8.85,50.74,Used,여,California,28
+USER_0484,Transaction_0262,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,28
+USER_0484,Transaction_0263,2019-01-04,Product_0461,Apparel,1,33,6.5,Clicked,여,California,28
+USER_0484,Transaction_0263,2019-01-04,Product_0520,Apparel,1,46.21,6.5,Clicked,여,California,28
+USER_0484,Transaction_0264,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,Used,여,California,28
+USER_0484,Transaction_0265,2019-01-04,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,California,28
+USER_0484,Transaction_0266,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,28
+USER_0484,Transaction_0267,2019-01-04,Product_0976,Nest-USA,3,122.77,6.5,Clicked,여,California,28
+USER_0484,Transaction_0267,2019-01-04,Product_0981,Nest-USA,2,153.71,6.5,Used,여,California,28
+USER_0484,Transaction_0267,2019-01-04,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,28
+USER_1378,Transaction_0268,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0269,2019-01-04,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0270,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,15
+USER_1378,Transaction_0271,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,15
+USER_1378,Transaction_0272,2019-01-04,Product_0210,Apparel,1,18.15,6.5,Used,여,California,15
+USER_1378,Transaction_0272,2019-01-04,Product_0236,Apparel,1,15.67,6.5,Used,여,California,15
+USER_1378,Transaction_0272,2019-01-04,Product_0858,Bags,1,82.52,6.5,Clicked,여,California,15
+USER_1378,Transaction_0272,2019-01-04,Product_0898,Drinkware,1,7.42,6.5,Used,여,California,15
+USER_1378,Transaction_0273,2019-01-04,Product_0879,Drinkware,1,9.07,13.78,Clicked,여,California,15
+USER_1378,Transaction_0273,2019-01-04,Product_0892,Drinkware,1,20.62,13.78,Used,여,California,15
+USER_1378,Transaction_0273,2019-01-04,Product_0920,Headgear,1,20.62,13.78,Clicked,여,California,15
+USER_1378,Transaction_0273,2019-01-04,Product_1132,Drinkware,1,6.59,13.78,Clicked,여,California,15
+USER_1378,Transaction_0274,2019-01-04,Product_0361,Apparel,1,90.77,6.5,Used,여,California,15
+USER_1378,Transaction_0275,2019-01-04,Product_0907,Lifestyle,30,1.59,6.5,Used,여,California,15
+USER_1378,Transaction_0276,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0310,Apparel,1,17.53,6.5,Clicked,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0420,Apparel,1,25.78,6.5,Clicked,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0870,Lifestyle,1,2.05,6.5,Used,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0904,Office,1,2.05,6.5,"Not Used",여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0914,Office,2,1.02,6.5,Used,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0932,Office,2,5.15,6.5,Clicked,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0954,Office,1,4.12,6.5,Clicked,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0963,Office,1,4.12,6.5,Clicked,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0970,Office,1,2.05,6.5,Clicked,여,California,15
+USER_1378,Transaction_0277,2019-01-04,Product_0973,Lifestyle,1,1.55,6.5,"Not Used",여,California,15
+USER_1378,Transaction_0278,2019-01-04,Product_0294,Apparel,2,17.53,6.5,Used,여,California,15
+USER_1378,Transaction_0278,2019-01-04,Product_0295,Apparel,3,17.53,6.5,"Not Used",여,California,15
+USER_1378,Transaction_0278,2019-01-04,Product_0297,Apparel,3,17.53,6.5,"Not Used",여,California,15
+USER_1378,Transaction_0279,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,15
+USER_1378,Transaction_0280,2019-01-04,Product_0983,Nest-USA,3,122.77,6.5,Clicked,여,California,15
+USER_1378,Transaction_0281,2019-01-04,Product_0274,Apparel,1,16.5,6.5,Used,여,California,15
+USER_1378,Transaction_0281,2019-01-04,Product_0358,Apparel,1,61.89,6.5,Clicked,여,California,15
+USER_1378,Transaction_0281,2019-01-04,Product_0864,Bags,1,82.52,6.5,Used,여,California,15
+USER_1378,Transaction_0282,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,15
+USER_1378,Transaction_0283,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,Used,여,California,15
+USER_1378,Transaction_0284,2019-01-04,Product_0983,Nest-USA,2,122.77,6.5,"Not Used",여,California,15
+USER_1378,Transaction_0285,2019-01-04,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0286,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0287,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,15
+USER_1378,Transaction_0288,2019-01-04,Product_1137,Apparel,21,8.64,6.5,Clicked,여,California,15
+USER_1378,Transaction_0289,2019-01-04,Product_0184,Office,3,1.64,41.3,Used,여,California,15
+USER_1378,Transaction_0289,2019-01-04,Product_0185,Office,3,2.47,41.3,Used,여,California,15
+USER_1378,Transaction_0289,2019-01-04,Product_0850,"More Bags",6,18.15,41.3,Clicked,여,California,15
+USER_1378,Transaction_0289,2019-01-04,Product_0898,Drinkware,6,7.42,41.3,Clicked,여,California,15
+USER_1378,Transaction_0289,2019-01-04,Product_0904,Office,6,1.64,41.3,Clicked,여,California,15
+USER_1378,Transaction_0289,2019-01-04,Product_0905,Office,2,2.89,41.3,Clicked,여,California,15
+USER_1378,Transaction_0289,2019-01-04,Product_0931,Office,52,3.16,41.3,Clicked,여,California,15
+USER_1378,Transaction_0290,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0291,2019-01-04,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,15
+USER_1378,Transaction_0292,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0293,2019-01-04,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0293,2019-01-04,Product_0985,Nest-USA,1,81.5,6.5,"Not Used",여,California,15
+USER_1378,Transaction_0294,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,15
+USER_1378,Transaction_0295,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,15
+USER_1378,Transaction_0296,2019-01-04,Product_0660,Apparel,1,46.21,6.5,Clicked,여,California,15
+USER_1378,Transaction_0297,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0298,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,15
+USER_1378,Transaction_0299,2019-01-04,Product_0675,Apparel,1,61.89,6.5,Clicked,여,California,15
+USER_1382,Transaction_0299,2019-01-04,Product_0686,Apparel,1,53.64,6.5,Clicked,여,California,18
+USER_1382,Transaction_0300,2019-01-04,Product_0976,Nest-USA,2,122.77,6.5,Used,여,California,18
+USER_1382,Transaction_0301,2019-01-04,Product_0175,Drinkware,1,13.4,6.5,Used,여,California,18
+USER_1382,Transaction_0302,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0302,2019-01-04,Product_0984,Nest-USA,1,81.5,6.5,Clicked,여,California,18
+USER_1382,Transaction_0303,2019-01-04,Product_0858,Bags,1,82.52,6.5,Used,여,California,18
+USER_1382,Transaction_0303,2019-01-04,Product_0864,Bags,1,82.52,6.5,Used,여,California,18
+USER_1382,Transaction_0304,2019-01-04,Product_0844,Bags,1,4.12,6.5,Clicked,여,California,18
+USER_1382,Transaction_0304,2019-01-04,Product_0846,Bags,1,8.24,6.5,Used,여,California,18
+USER_1382,Transaction_0304,2019-01-04,Product_0854,Bags,1,4.12,6.5,Clicked,여,California,18
+USER_1382,Transaction_0304,2019-01-04,Product_0872,Bags,1,9.07,6.5,Used,여,California,18
+USER_1382,Transaction_0304,2019-01-04,Product_0937,Office,1,1.64,6.5,Clicked,여,California,18
+USER_1382,Transaction_0304,2019-01-04,Product_0947,Office,1,4.54,6.5,Clicked,여,California,18
+USER_1382,Transaction_0305,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0306,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,18
+USER_1382,Transaction_0307,2019-01-04,Product_0983,Nest-USA,2,122.77,6.5,Used,여,California,18
+USER_1382,Transaction_0307,2019-01-04,Product_0984,Nest-USA,3,81.5,6.5,Clicked,여,California,18
+USER_1382,Transaction_0308,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,18
+USER_1382,Transaction_0309,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0310,2019-01-04,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,18
+USER_1382,Transaction_0311,2019-01-04,Product_0375,Apparel,1,61.89,6.5,Used,여,California,18
+USER_1382,Transaction_0311,2019-01-04,Product_0491,Apparel,1,15.67,6.5,Clicked,여,California,18
+USER_1382,Transaction_0312,2019-01-04,Product_0156,Apparel,1,14.02,6.5,Used,여,California,18
+USER_1382,Transaction_0313,2019-01-04,Product_0164,Apparel,1,14.02,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0314,2019-01-04,Product_0976,Nest-USA,1,122.77,6.5,Used,여,California,18
+USER_1382,Transaction_0315,2019-01-04,Product_0976,Nest-USA,1,205.3,6.5,Clicked,여,California,18
+USER_1382,Transaction_0316,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0317,2019-01-04,Product_0983,Nest-USA,2,122.77,6.5,Used,여,California,18
+USER_1382,Transaction_0318,2019-01-04,Product_0984,Nest-USA,1,81.5,6.5,Clicked,여,California,18
+USER_1382,Transaction_0319,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0320,2019-01-04,Product_0945,Office,1,2.47,6.5,Clicked,여,California,18
+USER_1382,Transaction_0320,2019-01-04,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0321,2019-01-04,Product_0886,Google,1,14.43,6.5,Clicked,여,California,18
+USER_1382,Transaction_0321,2019-01-04,Product_1134,Office,1,2.05,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0321,2019-01-04,Product_1143,Office,1,7.21,6.5,Clicked,여,California,18
+USER_1382,Transaction_0322,2019-01-04,Product_0976,Nest-USA,3,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0322,2019-01-04,Product_0983,Nest-USA,2,122.77,6.5,Used,여,California,18
+USER_1382,Transaction_0323,2019-01-04,Product_0976,Nest-USA,2,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0324,2019-01-04,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0325,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0326,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Used,여,California,18
+USER_1382,Transaction_0327,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0328,2019-01-05,Product_0068,Apparel,1,41.26,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0328,2019-01-05,Product_0520,Apparel,1,57.76,6.5,Used,여,California,18
+USER_1382,Transaction_0329,2019-01-05,Product_0178,Drinkware,10,19.59,139.57,Clicked,여,California,18
+USER_1382,Transaction_0330,2019-01-05,Product_0177,Bottles,1,3.08,6.5,Clicked,여,California,18
+USER_1382,Transaction_0330,2019-01-05,Product_0185,Office,1,3.08,6.5,Clicked,여,California,18
+USER_1382,Transaction_0330,2019-01-05,Product_0846,Bags,1,10.31,6.5,Clicked,여,California,18
+USER_1382,Transaction_0330,2019-01-05,Product_0931,Office,1,4.12,6.5,Clicked,여,California,18
+USER_1382,Transaction_0331,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0332,2019-01-05,Product_0294,Apparel,1,14.02,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0333,2019-01-05,Product_0325,Apparel,1,102.12,6.5,Used,여,California,18
+USER_1382,Transaction_0334,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,18
+USER_1382,Transaction_0335,2019-01-05,Product_0324,Apparel,1,81.7,6.5,Clicked,여,California,18
+USER_1382,Transaction_0335,2019-01-05,Product_0325,Apparel,1,81.7,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0335,2019-01-05,Product_0338,Apparel,2,61.89,6.5,Used,여,California,18
+USER_1382,Transaction_0335,2019-01-05,Product_0882,Drinkware,2,15.67,6.5,Used,여,California,18
+USER_1382,Transaction_0335,2019-01-05,Product_0919,Headgear,1,18.15,6.5,Clicked,여,California,18
+USER_1382,Transaction_0335,2019-01-05,Product_0920,Headgear,1,20.62,6.5,Clicked,여,California,18
+USER_1382,Transaction_0336,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,18
+USER_1382,Transaction_0336,2019-01-05,Product_0985,Nest-USA,2,81.5,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0337,2019-01-05,Product_0864,Bags,1,82.52,6.5,Used,여,California,18
+USER_1382,Transaction_0338,2019-01-05,Product_0909,"Gift Cards",1,103.16,0,Used,여,California,18
+USER_1382,Transaction_0339,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0340,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,18
+USER_1382,Transaction_0341,2019-01-05,Product_0983,Nest-USA,2,122.77,6.5,Used,여,California,18
+USER_1382,Transaction_0342,2019-01-05,Product_0358,Apparel,1,61.89,6.5,Clicked,여,California,18
+USER_1382,Transaction_0342,2019-01-05,Product_0520,Apparel,1,46.21,6.5,Clicked,여,California,18
+USER_1382,Transaction_0343,2019-01-05,Product_0202,Apparel,1,14.02,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0343,2019-01-05,Product_0883,Drinkware,1,11.54,6.5,Used,여,California,18
+USER_1382,Transaction_0343,2019-01-05,Product_0895,Drinkware,1,11.54,6.5,Used,여,California,18
+USER_1382,Transaction_0344,2019-01-05,Product_0297,Apparel,1,17.53,6.5,Used,여,California,18
+USER_1382,Transaction_0344,2019-01-05,Product_0869,Housewares,1,2.58,6.5,Used,여,California,18
+USER_1382,Transaction_0344,2019-01-05,Product_0904,Office,1,2.05,6.5,Clicked,여,California,18
+USER_1382,Transaction_0344,2019-01-05,Product_0972,Lifestyle,1,5.15,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0345,2019-01-05,Product_0984,Nest-USA,1,81.5,6.5,Clicked,여,California,18
+USER_1382,Transaction_0346,2019-01-05,Product_0869,Housewares,206,2.5,6.5,"Not Used",여,California,18
+USER_1382,Transaction_0346,2019-01-05,Product_0914,Office,516,0.99,6.5,Clicked,여,California,18
+USER_1382,Transaction_0346,2019-01-05,Product_0915,Lifestyle,26,3.47,6.5,Used,여,California,18
+USER_1382,Transaction_0346,2019-01-05,Product_0916,Lifestyle,26,3.47,6.5,Used,여,California,18
+USER_1382,Transaction_0346,2019-01-05,Product_0917,Lifestyle,26,3.47,6.5,Clicked,여,California,18
+USER_0138,Transaction_0346,2019-01-05,Product_0918,Lifestyle,26,3.47,6.5,Used,여,California,31
+USER_0138,Transaction_0346,2019-01-05,Product_0966,Office,103,1.99,6.5,Clicked,여,California,31
+USER_0138,Transaction_0346,2019-01-05,Product_0970,Office,206,1.99,6.5,Clicked,여,California,31
+USER_0138,Transaction_0347,2019-01-05,Product_0046,Apparel,1,20.62,6.5,Used,여,California,31
+USER_0138,Transaction_0348,2019-01-05,Product_0898,Drinkware,4,7.42,6.5,Used,여,California,31
+USER_0138,Transaction_0349,2019-01-05,Product_0910,"Gift Cards",1,25.79,0,"Not Used",여,California,31
+USER_0138,Transaction_0350,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0351,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0352,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,31
+USER_0138,Transaction_0353,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,31
+USER_0138,Transaction_0354,2019-01-05,Product_0284,Apparel,1,17.53,6.5,Used,여,California,31
+USER_0138,Transaction_0354,2019-01-05,Product_0898,Drinkware,1,9.27,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0355,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,31
+USER_0138,Transaction_0356,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,31
+USER_0138,Transaction_0357,2019-01-05,Product_0935,Office,26,14.27,351.64,Used,여,California,31
+USER_0138,Transaction_0357,2019-01-05,Product_0958,"Notebooks & Journals",26,26.18,351.64,Clicked,여,California,31
+USER_0138,Transaction_0358,2019-01-05,Product_1018,Waze,2,3.08,6.5,Clicked,여,California,31
+USER_0138,Transaction_0359,2019-01-05,Product_1132,Drinkware,1,8.24,6.5,Used,여,California,31
+USER_0138,Transaction_0359,2019-01-05,Product_1133,Bottles,1,5.15,6.5,Clicked,여,California,31
+USER_0138,Transaction_0359,2019-01-05,Product_1135,Headgear,1,22.69,6.5,Used,여,California,31
+USER_0138,Transaction_0359,2019-01-05,Product_1136,Headgear,1,25.78,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0359,2019-01-05,Product_1137,Apparel,1,11.34,6.5,Clicked,여,California,31
+USER_0138,Transaction_0359,2019-01-05,Product_1140,"Notebooks & Journals",2,20.62,6.5,Clicked,여,California,31
+USER_0138,Transaction_0359,2019-01-05,Product_1141,"Notebooks & Journals",2,15.46,6.5,Clicked,여,California,31
+USER_0138,Transaction_0360,2019-01-05,Product_0869,Housewares,4,2.58,6.5,Used,여,California,31
+USER_0138,Transaction_0360,2019-01-05,Product_0870,Lifestyle,4,2.05,6.5,Clicked,여,California,31
+USER_0138,Transaction_0360,2019-01-05,Product_0886,Google,2,14.43,6.5,Used,여,California,31
+USER_0138,Transaction_0360,2019-01-05,Product_0892,Drinkware,1,25.78,6.5,Used,여,California,31
+USER_0138,Transaction_0360,2019-01-05,Product_0898,Drinkware,2,9.27,6.5,Clicked,여,California,31
+USER_0138,Transaction_0361,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Used,여,California,31
+USER_0138,Transaction_0362,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,31
+USER_0138,Transaction_0363,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,31
+USER_0138,Transaction_0364,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,31
+USER_0138,Transaction_0365,2019-01-05,Product_0279,Apparel,1,20.62,6.5,Clicked,여,California,31
+USER_0138,Transaction_0365,2019-01-05,Product_0311,Apparel,1,17.53,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0365,2019-01-05,Product_0901,Drinkware,2,3.61,6.5,Clicked,여,California,31
+USER_0138,Transaction_0366,2019-01-05,Product_0638,Apparel,1,77.36,6.5,Clicked,여,California,31
+USER_0138,Transaction_0366,2019-01-05,Product_0844,Bags,1,5.15,6.5,Clicked,여,California,31
+USER_0138,Transaction_0366,2019-01-05,Product_0846,Bags,1,10.31,6.5,Clicked,여,California,31
+USER_0138,Transaction_0366,2019-01-05,Product_0854,Bags,1,5.15,6.5,Used,여,California,31
+USER_0138,Transaction_0366,2019-01-05,Product_0855,Bags,1,15.46,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0367,2019-01-05,Product_0892,Drinkware,1,20.62,12.76,Used,여,California,31
+USER_0138,Transaction_0367,2019-01-05,Product_0898,Drinkware,1,7.42,12.76,Clicked,여,California,31
+USER_0138,Transaction_0367,2019-01-05,Product_0961,"Notebooks & Journals",1,12.37,12.76,Used,여,California,31
+USER_0138,Transaction_0368,2019-01-05,Product_0181,Drinkware,1,13.4,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0368,2019-01-05,Product_0195,Lifestyle,1,4.12,6.5,Clicked,여,California,31
+USER_0138,Transaction_0369,2019-01-05,Product_0892,Drinkware,1,20.62,6.5,Used,여,California,31
+USER_0138,Transaction_0369,2019-01-05,Product_0904,Office,1,1.64,6.5,Used,여,California,31
+USER_0138,Transaction_0369,2019-01-05,Product_0905,Office,1,2.89,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0369,2019-01-05,Product_0922,Apparel,1,9.07,6.5,"Not Used",여,California,31
+USER_0138,Transaction_0370,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,31
+USER_0138,Transaction_0371,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,31
+USER_0138,Transaction_0372,2019-01-05,Product_0179,Drinkware,4,11.54,35.96,Used,여,California,31
+USER_0138,Transaction_0372,2019-01-05,Product_0195,Lifestyle,14,3.29,35.96,Clicked,여,California,31
+USER_0138,Transaction_0372,2019-01-05,Product_0883,Drinkware,4,11.54,35.96,"Not Used",여,California,31
+USER_0138,Transaction_0372,2019-01-05,Product_0886,Google,2,11.54,35.96,Clicked,여,California,31
+USER_0138,Transaction_0372,2019-01-05,Product_0895,Drinkware,4,11.54,35.96,Clicked,여,California,31
+USER_0138,Transaction_0372,2019-01-05,Product_0967,Office,5,4.12,35.96,Used,여,California,31
+USER_0138,Transaction_0373,2019-01-05,Product_0891,Drinkware,1,20.62,6.5,Clicked,여,California,31
+USER_0251,Transaction_0374,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,California,15
+USER_0251,Transaction_0375,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,California,15
+USER_0251,Transaction_0376,2019-01-05,Product_0296,Apparel,1,14.02,6.5,"Not Used",남,California,15
+USER_0251,Transaction_0377,2019-01-05,Product_0976,Nest-USA,2,122.77,6.5,Used,남,California,15
+USER_0251,Transaction_0377,2019-01-05,Product_0981,Nest-USA,2,153.71,6.5,"Not Used",남,California,15
+USER_0251,Transaction_0377,2019-01-05,Product_0985,Nest-USA,5,81.5,6.5,Clicked,남,California,15
+USER_1030,Transaction_0378,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,27
+USER_1030,Transaction_0379,2019-01-05,Product_0184,Office,155,1.99,6.5,Clicked,여,California,27
+USER_1030,Transaction_0379,2019-01-05,Product_0854,Bags,34,5,6.5,Clicked,여,California,27
+USER_1030,Transaction_0379,2019-01-05,Product_0870,Lifestyle,155,1.99,6.5,Used,여,California,27
+USER_1030,Transaction_0379,2019-01-05,Product_0895,Drinkware,26,13.88,6.5,Clicked,여,California,27
+USER_1030,Transaction_0379,2019-01-05,Product_0914,Office,155,0.99,6.5,Clicked,여,California,27
+USER_1030,Transaction_0379,2019-01-05,Product_0940,Office,155,0.99,6.5,"Not Used",여,California,27
+USER_1030,Transaction_0380,2019-01-05,Product_0487,Apparel,1,14.02,6.5,Used,여,California,27
+USER_1030,Transaction_0381,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Used,여,California,27
+USER_1030,Transaction_0381,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,California,27
+USER_1030,Transaction_0382,2019-01-05,Product_0177,Bottles,2,3.08,6.5,"Not Used",여,California,27
+USER_1030,Transaction_0382,2019-01-05,Product_0870,Lifestyle,10,2.05,6.5,"Not Used",여,California,27
+USER_1030,Transaction_0382,2019-01-05,Product_0894,Drinkware,2,3.08,6.5,Clicked,여,California,27
+USER_1030,Transaction_0382,2019-01-05,Product_0904,Office,10,2.05,6.5,"Not Used",여,California,27
+USER_1424,Transaction_0382,2019-01-05,Product_0949,Office,21,1.47,6.5,Used,남,Chicago,34
+USER_1424,Transaction_0382,2019-01-05,Product_0968,Office,5,6.18,6.5,Clicked,남,Chicago,34
+USER_1424,Transaction_0382,2019-01-05,Product_0969,Office,5,6.18,6.5,Used,남,Chicago,34
+USER_1424,Transaction_0383,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,34
+USER_1424,Transaction_0384,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,34
+USER_1424,Transaction_0385,2019-01-05,Product_0295,Apparel,1,17.53,6.5,Clicked,남,Chicago,34
+USER_1424,Transaction_0385,2019-01-05,Product_0904,Office,1,2.05,6.5,Used,남,Chicago,34
+USER_1424,Transaction_0386,2019-01-05,Product_0181,Drinkware,1,13.4,6.5,Used,남,Chicago,34
+USER_1424,Transaction_0386,2019-01-05,Product_0874,Lifestyle,1,12.37,6.5,"Not Used",남,Chicago,34
+USER_0349,Transaction_0386,2019-01-05,Product_0878,Drinkware,1,25.78,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0386,2019-01-05,Product_0898,Drinkware,1,9.27,6.5,Used,남,"Washington DC",46
+USER_0349,Transaction_0386,2019-01-05,Product_0900,Drinkware,1,13.4,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0386,2019-01-05,Product_0966,Office,2,2.05,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0386,2019-01-05,Product_1018,Waze,2,3.08,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0387,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",46
+USER_0349,Transaction_0388,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",46
+USER_0349,Transaction_0389,2019-01-05,Product_0275,Apparel,1,16.5,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0390,2019-01-05,Product_0523,Apparel,1,42.91,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0391,2019-01-05,Product_0239,Apparel,1,19.59,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0392,2019-01-05,Product_0976,Nest-USA,1,122.77,28.78,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0393,2019-01-05,Product_0976,Nest-USA,2,122.77,6.5,"Not Used",남,"Washington DC",46
+USER_0349,Transaction_0393,2019-01-05,Product_0983,Nest-USA,4,122.77,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0394,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",46
+USER_0349,Transaction_0395,2019-01-05,Product_0519,Apparel,1,46.21,6.5,"Not Used",남,"Washington DC",46
+USER_0349,Transaction_0396,2019-01-05,Product_0253,Apparel,1,45.38,6.5,Used,남,"Washington DC",46
+USER_0349,Transaction_0396,2019-01-05,Product_0842,Apparel,1,15.67,6.5,Clicked,남,"Washington DC",46
+USER_0334,Transaction_0396,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Clicked,여,California,44
+USER_0334,Transaction_0396,2019-01-05,Product_1010,Waze,1,15.67,6.5,Clicked,여,California,44
+USER_0334,Transaction_0396,2019-01-05,Product_1018,Waze,1,2.47,6.5,"Not Used",여,California,44
+USER_0334,Transaction_0396,2019-01-05,Product_1019,Waze,1,1.64,6.5,"Not Used",여,California,44
+USER_0334,Transaction_0396,2019-01-05,Product_1021,Waze,1,1.64,6.5,Used,여,California,44
+USER_0334,Transaction_0397,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,여,California,44
+USER_0895,Transaction_0398,2019-01-05,Product_0497,Apparel,1,19.59,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0398,2019-01-05,Product_0854,Bags,31,4.98,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0398,2019-01-05,Product_0865,Bags,2,72.2,6.5,Used,남,"New York",25
+USER_0895,Transaction_0398,2019-01-05,Product_0908,Drinkware,103,1.99,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0398,2019-01-05,Product_0917,Lifestyle,52,3.47,6.5,Used,남,"New York",25
+USER_0895,Transaction_0399,2019-01-05,Product_0525,Apparel,1,42.91,6.5,Used,남,"New York",25
+USER_0895,Transaction_0400,2019-01-05,Product_1097,Apparel,1,57.76,6.5,"Not Used",남,"New York",25
+USER_0895,Transaction_0401,2019-01-05,Product_0195,Lifestyle,21,3.13,35.96,Clicked,남,"New York",25
+USER_0895,Transaction_0401,2019-01-05,Product_0957,"Notebooks & Journals",21,7.85,35.96,Clicked,남,"New York",25
+USER_0895,Transaction_0402,2019-01-05,Product_0243,Apparel,1,20.62,6.5,Used,남,"New York",25
+USER_0895,Transaction_0402,2019-01-05,Product_0289,Apparel,1,22.69,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0402,2019-01-05,Product_0904,Office,1,2.05,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0403,2019-01-05,Product_0778,Apparel,1,24.75,6.5,"Not Used",남,"New York",25
+USER_0895,Transaction_0404,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0405,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0406,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0407,2019-01-05,Product_0174,Lifestyle,1,14.85,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0407,2019-01-05,Product_0345,Apparel,1,61.89,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0407,2019-01-05,Product_0892,Drinkware,1,20.62,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0407,2019-01-05,Product_0966,Office,1,1.64,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0408,2019-01-05,Product_0976,Nest-USA,2,122.77,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0409,2019-01-05,Product_0206,Apparel,1,15.67,35.3,"Not Used",남,"New York",25
+USER_0895,Transaction_0409,2019-01-05,Product_0252,Apparel,1,45.38,35.3,Used,남,"New York",25
+USER_0895,Transaction_0409,2019-01-05,Product_0288,Apparel,1,18.15,35.3,"Not Used",남,"New York",25
+USER_0895,Transaction_0409,2019-01-05,Product_0519,Apparel,1,46.21,35.3,"Not Used",남,"New York",25
+USER_0895,Transaction_0410,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0410,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0411,2019-01-05,Product_0976,Nest-USA,1,122.77,6.5,Used,남,"New York",25
+USER_0895,Transaction_0411,2019-01-05,Product_0984,Nest-USA,5,81.5,6.5,Used,남,"New York",25
+USER_0895,Transaction_0412,2019-01-05,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"New York",25
+USER_0895,Transaction_0412,2019-01-05,Product_0984,Nest-USA,1,81.5,6.5,Clicked,남,"New York",25
+USER_0895,Transaction_0413,2019-01-05,Product_0195,Lifestyle,1,4.12,0,Clicked,남,"New York",25
+USER_0630,Transaction_0413,2019-01-05,Product_0902,Office,3,1.55,0,Used,여,"New Jersey",45
+USER_0630,Transaction_0413,2019-01-05,Product_0934,Office,3,1.55,0,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0414,2019-01-05,Product_0985,Nest-USA,5,81.5,6.5,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0415,2019-01-05,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0416,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",여,"New Jersey",45
+USER_0630,Transaction_0417,2019-01-06,Product_0976,Nest-USA,3,122.77,6.5,"Not Used",여,"New Jersey",45
+USER_0630,Transaction_0418,2019-01-06,Product_0981,Nest-USA,2,153.71,6.5,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0419,2019-01-06,Product_0865,Bags,2,72.2,6.5,"Not Used",여,"New Jersey",45
+USER_0630,Transaction_0420,2019-01-06,Product_0976,Nest-USA,2,122.77,6.5,"Not Used",여,"New Jersey",45
+USER_0630,Transaction_0421,2019-01-06,Product_0849,Bags,5,2.89,13.78,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0421,2019-01-06,Product_0882,Drinkware,5,15.67,13.78,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0422,2019-01-06,Product_0858,Bags,1,103.15,6.5,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0422,2019-01-06,Product_0870,Lifestyle,1,2.05,6.5,"Not Used",여,"New Jersey",45
+USER_0630,Transaction_0422,2019-01-06,Product_0904,Office,2,2.05,6.5,Used,여,"New Jersey",45
+USER_0630,Transaction_0422,2019-01-06,Product_0905,Office,1,3.61,6.5,"Not Used",여,"New Jersey",45
+USER_1395,Transaction_0422,2019-01-06,Product_0931,Office,2,4.12,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0937,Office,2,2.05,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0940,Office,2,1.02,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0944,Office,1,4.12,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0945,Office,1,3.08,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0950,Fun,1,9.27,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0957,"Notebooks & Journals",1,10.31,6.5,Used,남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0966,Office,2,2.05,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0967,Office,1,5.15,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0968,Office,1,6.18,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0422,2019-01-06,Product_0970,Office,1,2.05,6.5,Used,남,"New York",33
+USER_1395,Transaction_0423,2019-01-06,Product_1000,Waze,1,19.59,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0423,2019-01-06,Product_1021,Waze,1,2.05,6.5,Used,남,"New York",33
+USER_1395,Transaction_0424,2019-01-06,Product_0981,Nest-USA,4,153.71,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0425,2019-01-06,Product_1132,Drinkware,26,6.34,35.96,Clicked,남,"New York",33
+USER_1395,Transaction_0425,2019-01-06,Product_1143,Office,26,5.55,35.96,Used,남,"New York",33
+USER_1395,Transaction_0426,2019-01-06,Product_0988,Nest-Canada,4,107.29,8.7,Used,남,"New York",33
+USER_1395,Transaction_0427,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0427,2019-01-06,Product_0984,Nest-USA,2,81.5,6.5,Used,남,"New York",33
+USER_1395,Transaction_0428,2019-01-06,Product_0337,Apparel,1,61.89,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0429,2019-01-06,Product_0195,Lifestyle,41,4.02,213.13,Clicked,남,"New York",33
+USER_1395,Transaction_0429,2019-01-06,Product_0904,Office,15,2.05,213.13,Used,남,"New York",33
+USER_1395,Transaction_0429,2019-01-06,Product_0914,Office,258,0.99,213.13,"Not Used",남,"New York",33
+USER_1395,Transaction_0429,2019-01-06,Product_0969,Office,62,5.98,213.13,Used,남,"New York",33
+USER_1395,Transaction_0430,2019-01-06,Product_0981,Nest-USA,2,153.71,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0431,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0432,2019-01-06,Product_0985,Nest-USA,3,81.5,6.5,Used,남,"New York",33
+USER_1395,Transaction_0433,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"New York",33
+USER_1395,Transaction_0434,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0434,2019-01-06,Product_0984,Nest-USA,1,81.5,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0435,2019-01-06,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0436,2019-01-06,Product_0461,Apparel,1,33,6.5,Used,남,"New York",33
+USER_1395,Transaction_0436,2019-01-06,Product_0898,Drinkware,1,7.42,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0436,2019-01-06,Product_0904,Office,1,1.64,6.5,Used,남,"New York",33
+USER_1395,Transaction_0436,2019-01-06,Product_1134,Office,1,1.64,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0437,2019-01-06,Product_0882,Drinkware,1,15.67,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0437,2019-01-06,Product_0961,"Notebooks & Journals",1,12.37,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0437,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0437,2019-01-06,Product_0983,Nest-USA,2,122.77,6.5,Used,남,"New York",33
+USER_1395,Transaction_0438,2019-01-06,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0439,2019-01-06,Product_0844,Bags,26,4.95,6.5,Used,남,"New York",33
+USER_1395,Transaction_0439,2019-01-06,Product_0847,Bags,10,5.15,6.5,Used,남,"New York",33
+USER_1395,Transaction_0439,2019-01-06,Product_0908,Drinkware,103,1.99,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0439,2019-01-06,Product_0930,Office,103,1.99,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0439,2019-01-06,Product_0940,Office,309,0.99,6.5,Used,남,"New York",33
+USER_1395,Transaction_0439,2019-01-06,Product_0942,Office,52,2.48,6.5,Used,남,"New York",33
+USER_1395,Transaction_0440,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0441,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0441,2019-01-06,Product_0983,Nest-USA,2,122.77,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0442,2019-01-06,Product_0213,Apparel,1,18.15,6.5,Used,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0496,Apparel,2,19.59,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0497,Apparel,1,19.59,6.5,Used,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0849,Bags,3,3.61,6.5,Used,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0879,Drinkware,2,11.34,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0894,Drinkware,2,3.08,6.5,"Not Used",남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0904,Office,1,2.05,6.5,Used,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0914,Office,10,1.02,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0915,Lifestyle,1,3.61,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0917,Lifestyle,1,3.61,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0918,Lifestyle,1,3.61,6.5,Used,남,"New York",33
+USER_1395,Transaction_0443,2019-01-06,Product_0957,"Notebooks & Journals",3,10.31,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0444,2019-01-06,Product_0285,Apparel,1,14.02,6.5,Used,남,"New York",33
+USER_1395,Transaction_0444,2019-01-06,Product_0520,Apparel,1,46.21,6.5,Used,남,"New York",33
+USER_1395,Transaction_0444,2019-01-06,Product_0900,Drinkware,1,10.72,6.5,Used,남,"New York",33
+USER_1395,Transaction_0444,2019-01-06,Product_0915,Lifestyle,1,2.89,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0445,2019-01-06,Product_0018,Apparel,2,16.5,6.5,Used,남,"New York",33
+USER_1395,Transaction_0445,2019-01-06,Product_0033,Apparel,2,15.67,6.5,Used,남,"New York",33
+USER_1395,Transaction_0445,2019-01-06,Product_0202,Apparel,2,14.02,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0445,2019-01-06,Product_0264,Apparel,2,18.15,6.5,Used,남,"New York",33
+USER_1395,Transaction_0445,2019-01-06,Product_0274,Apparel,2,16.5,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0445,2019-01-06,Product_0284,Apparel,2,14.02,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0446,2019-01-06,Product_0877,Drinkware,10,20.62,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0446,2019-01-06,Product_0894,Drinkware,15,3.08,6.5,Used,남,"New York",33
+USER_1395,Transaction_0446,2019-01-06,Product_0914,Office,15,1.02,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0446,2019-01-06,Product_0934,Office,10,1.55,6.5,Used,남,"New York",33
+USER_1395,Transaction_0446,2019-01-06,Product_0946,Office,5,5.67,6.5,Used,남,"New York",33
+USER_1395,Transaction_0446,2019-01-06,Product_0966,Office,10,2.05,6.5,Used,남,"New York",33
+USER_1395,Transaction_0447,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0448,2019-01-06,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0449,2019-01-06,Product_1024,Apparel,1,17.53,6.5,Used,남,"New York",33
+USER_1395,Transaction_0449,2019-01-06,Product_1117,Apparel,1,17.53,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0450,2019-01-06,Product_0385,Apparel,1,16.5,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0451,2019-01-06,Product_0981,Nest-USA,2,153.71,6.5,Clicked,남,"New York",33
+USER_1395,Transaction_0452,2019-01-06,Product_0858,Bags,1,82.52,64.01,Clicked,남,"New York",33
+USER_1395,Transaction_0452,2019-01-06,Product_0864,Bags,1,82.52,64.01,Clicked,남,"New York",33
+USER_0630,Transaction_0452,2019-01-06,Product_0865,Bags,1,57.76,64.01,Clicked,여,"New Jersey",45
+USER_0630,Transaction_0453,2019-01-06,Product_1132,Drinkware,1,8.24,6.5,Used,여,"New Jersey",45
+USER_0946,Transaction_0453,2019-01-06,Product_1134,Office,1,2.05,6.5,"Not Used",남,"New York",49
+USER_0946,Transaction_0453,2019-01-06,Product_1137,Apparel,1,11.34,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0453,2019-01-06,Product_1143,Office,1,7.21,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0454,2019-01-06,Product_0904,Office,1,2.05,6.5,"Not Used",남,"New York",49
+USER_0946,Transaction_0454,2019-01-06,Product_0922,Apparel,1,11.34,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0454,2019-01-06,Product_0965,Office,1,10.31,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0455,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0456,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0456,2019-01-06,Product_0983,Nest-USA,1,122.77,6.5,Used,남,"New York",49
+USER_0946,Transaction_0457,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,"New York",49
+USER_0946,Transaction_0457,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0457,2019-01-06,Product_0985,Nest-USA,1,81.5,6.5,Clicked,남,"New York",49
+USER_0946,Transaction_0458,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",남,"New York",49
+USER_0946,Transaction_0458,2019-01-06,Product_0984,Nest-USA,1,81.5,6.5,"Not Used",남,"New York",49
+USER_1376,Transaction_0459,2019-01-06,Product_0274,Apparel,1,16.5,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0459,2019-01-06,Product_0279,Apparel,2,16.5,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0460,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0461,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,"Washington DC",19
+USER_1376,Transaction_0461,2019-01-06,Product_0977,Nest-USA,1,81.5,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0462,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0462,2019-01-06,Product_0985,Nest-USA,1,81.5,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0463,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0463,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0464,2019-01-06,Product_0981,Nest-USA,2,153.71,6.5,"Not Used",남,"Washington DC",19
+USER_1376,Transaction_0465,2019-01-06,Product_0983,Nest-USA,2,122.77,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0466,2019-01-06,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0467,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0468,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0468,2019-01-06,Product_0984,Nest-USA,2,81.5,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0469,2019-01-06,Product_0984,Nest-USA,1,81.5,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0470,2019-01-06,Product_0984,Nest-USA,2,81.5,6.5,"Not Used",남,"Washington DC",19
+USER_1376,Transaction_0471,2019-01-06,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0472,2019-01-06,Product_0422,Apparel,1,20.62,6.5,"Not Used",남,"Washington DC",19
+USER_1376,Transaction_0472,2019-01-06,Product_0461,Apparel,1,33,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0472,2019-01-06,Product_0525,Apparel,1,42.91,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0473,2019-01-06,Product_0184,Office,1,2.05,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0473,2019-01-06,Product_0185,Office,1,3.08,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0473,2019-01-06,Product_0520,Apparel,1,57.76,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0473,2019-01-06,Product_0904,Office,1,2.05,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0473,2019-01-06,Product_0907,Lifestyle,3,2.05,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0473,2019-01-06,Product_1134,Office,1,2.05,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0474,2019-01-06,Product_0983,Nest-USA,3,122.77,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0475,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0476,2019-01-06,Product_0914,Office,4,1.02,6.5,"Not Used",남,"Washington DC",19
+USER_1376,Transaction_0476,2019-01-06,Product_0916,Lifestyle,1,3.61,6.5,Used,남,"Washington DC",19
+USER_1376,Transaction_0476,2019-01-06,Product_0918,Lifestyle,1,3.61,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0476,2019-01-06,Product_0930,Office,2,2.05,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0476,2019-01-06,Product_0931,Office,1,4.12,6.5,Clicked,남,"Washington DC",19
+USER_1376,Transaction_0476,2019-01-06,Product_0944,Office,1,4.12,6.5,Clicked,남,"Washington DC",19
+USER_1236,Transaction_0476,2019-01-06,Product_0951,Office,2,3.08,6.5,Used,남,Chicago,34
+USER_1236,Transaction_0477,2019-01-06,Product_0181,Drinkware,2,10.72,6.5,"Not Used",남,Chicago,34
+USER_1236,Transaction_0477,2019-01-06,Product_0898,Drinkware,2,7.42,6.5,Clicked,남,Chicago,34
+USER_1236,Transaction_0478,2019-01-06,Product_0904,Office,1,2.05,6.5,Clicked,남,Chicago,34
+USER_1236,Transaction_0479,2019-01-06,Product_0976,Nest-USA,1,122.77,6.5,Used,남,Chicago,34
+USER_1236,Transaction_0479,2019-01-06,Product_0984,Nest-USA,1,81.5,6.5,Clicked,남,Chicago,34
+USER_1236,Transaction_0480,2019-01-06,Product_0336,Apparel,1,77.36,6.5,"Not Used",남,Chicago,34
+USER_1236,Transaction_0480,2019-01-06,Product_0422,Apparel,1,25.78,6.5,Used,남,Chicago,34
+USER_1236,Transaction_0481,2019-01-06,Product_0985,Nest-USA,5,81.5,6.5,Clicked,남,Chicago,34
+USER_1236,Transaction_0482,2019-01-06,Product_0983,Nest-USA,2,122.77,6.5,Used,남,Chicago,34
+USER_1236,Transaction_0483,2019-01-06,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,Chicago,34
+USER_1236,Transaction_0483,2019-01-06,Product_0985,Nest-USA,1,81.5,6.5,Used,남,Chicago,34
+USER_1236,Transaction_0484,2019-01-07,Product_0914,Office,7,0.81,6.5,Clicked,남,Chicago,34
+USER_1236,Transaction_0484,2019-01-07,Product_0915,Lifestyle,1,2.89,6.5,Used,남,Chicago,34
+USER_1236,Transaction_0484,2019-01-07,Product_0944,Office,7,3.29,6.5,Used,남,Chicago,34
+USER_1020,Transaction_0484,2019-01-07,Product_0969,Office,2,4.94,6.5,Used,여,California,27
+USER_1020,Transaction_0485,2019-01-07,Product_0983,Nest-USA,2,122.77,6.5,Clicked,여,California,27
+USER_1020,Transaction_0486,2019-01-07,Product_0981,Nest-USA,1,153.71,6.5,Clicked,여,California,27
+USER_1020,Transaction_0487,2019-01-07,Product_0240,Apparel,1,19.59,6.5,Used,여,California,27
+USER_1020,Transaction_0487,2019-01-07,Product_0388,Apparel,1,20.62,6.5,Used,여,California,27
+USER_1175,Transaction_0487,2019-01-07,Product_0418,Apparel,1,19.59,6.5,Clicked,여,"New York",49
+USER_1175,Transaction_0488,2019-01-07,Product_0981,Nest-USA,2,153.71,6.5,"Not Used",여,"New York",49
+USER_1376,Transaction_0489,2019-01-07,Product_0976,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",19
+USER_1389,Transaction_0490,2019-01-07,Product_0518,Apparel,1,46.21,6.5,"Not Used",여,Chicago,36
+USER_1389,Transaction_0491,2019-01-07,Product_0983,Nest-USA,1,122.77,6.5,"Not Used",여,Chicago,36
+USER_1389,Transaction_0492,2019-01-07,Product_0985,Nest-USA,2,81.5,6.5,Clicked,여,Chicago,36
+USER_1389,Transaction_0493,2019-01-07,Product_0981,Nest-USA,1,153.71,6.5,Used,여,Chicago,36
+USER_1389,Transaction_0494,2019-01-07,Product_0983,Nest-USA,1,122.77,6.5,Clicked,여,Chicago,36
+USER_0595,Transaction_0495,2019-01-07,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0496,2019-01-07,Product_0983,Nest-USA,2,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0497,2019-01-07,Product_0954,Office,2,4.12,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0497,2019-01-07,Product_0968,Office,1,6.18,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0497,2019-01-07,Product_0969,Office,1,6.18,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0497,2019-01-07,Product_1142,"Notebooks & Journals",1,10.31,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0498,2019-01-07,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0499,2019-01-07,Product_1132,Drinkware,1,8.24,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0499,2019-01-07,Product_1137,Apparel,1,11.34,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0499,2019-01-07,Product_1143,Office,2,7.21,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0500,2019-01-07,Product_0981,Nest-USA,1,153.71,6.5,"Not Used",남,"Washington DC",43
+USER_0595,Transaction_0501,2019-01-07,Product_0862,Lifestyle,1,22.27,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0501,2019-01-07,Product_0976,Nest-USA,4,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0501,2019-01-07,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0501,2019-01-07,Product_0983,Nest-USA,4,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0502,2019-01-07,Product_0976,Nest-USA,1,122.77,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0503,2019-01-07,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0503,2019-01-07,Product_0985,Nest-USA,1,81.5,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0504,2019-01-07,Product_0054,Apparel,1,16.5,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0504,2019-01-07,Product_0185,Office,1,2.47,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0504,2019-01-07,Product_1026,Apparel,1,14.02,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0505,2019-01-07,Product_0282,Apparel,1,14.02,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0505,2019-01-07,Product_0847,Bags,2,4.12,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0505,2019-01-07,Product_0898,Drinkware,1,7.42,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0505,2019-01-07,Product_0907,Lifestyle,2,1.64,6.5,"Not Used",남,"Washington DC",43
+USER_0595,Transaction_0505,2019-01-07,Product_0908,Drinkware,12,1.64,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0506,2019-01-07,Product_0985,Nest-USA,4,81.5,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0507,2019-01-07,Product_0983,Nest-USA,2,122.77,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0508,2019-01-07,Product_0976,Nest-USA,1,122.77,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0509,2019-01-07,Product_0983,Nest-USA,2,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0510,2019-01-07,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0511,2019-01-07,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,"Washington DC",43
+USER_0595,Transaction_0511,2019-01-07,Product_0983,Nest-USA,1,122.77,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0512,2019-01-07,Product_0985,Nest-USA,5,81.5,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0513,2019-01-07,Product_0983,Nest-USA,1,122.77,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0514,2019-01-07,Product_0208,Apparel,2,15.67,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0515,2019-01-07,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0516,2019-01-08,Product_0854,Bags,21,4.9,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0516,2019-01-08,Product_0869,Housewares,62,2.5,6.5,"Not Used",남,"Washington DC",43
+USER_0595,Transaction_0516,2019-01-08,Product_0934,Office,103,1.5,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0516,2019-01-08,Product_0970,Office,52,1.97,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0517,2019-01-08,Product_0311,Apparel,2,17.53,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0517,2019-01-08,Product_0312,Apparel,2,17.53,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0517,2019-01-08,Product_0919,Headgear,4,22.69,6.5,"Not Used",남,"Washington DC",43
+USER_0595,Transaction_0518,2019-01-08,Product_0983,Nest-USA,1,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0519,2019-01-08,Product_0981,Nest-USA,2,153.71,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0519,2019-01-08,Product_0983,Nest-USA,3,122.77,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0520,2019-01-08,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0521,2019-01-08,Product_0865,Bags,1,57.76,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0522,2019-01-08,Product_0981,Nest-USA,1,153.71,6.5,Clicked,남,"Washington DC",43
+USER_0595,Transaction_0523,2019-01-08,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0524,2019-01-08,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,"Washington DC",43
+USER_0595,Transaction_0525,2019-01-08,Product_0976,Nest-USA,1,122.77,6.5,"Not Used",남,"Washington DC",43
+USER_0595,Transaction_0526,2019-01-08,Product_0898,Drinkware,1,9.27,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0526,2019-01-08,Product_0908,Drinkware,1,2.05,6.5,Used,남,"Washington DC",43
+USER_0595,Transaction_0527,2019-01-08,Product_0981,Nest-USA,1,153.71,6.5,Used,남,"Washington DC",43
