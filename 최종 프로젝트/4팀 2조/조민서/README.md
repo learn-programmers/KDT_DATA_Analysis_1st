@@ -6,3 +6,4 @@
 - Steam Game.ipynb : 전체 진행 과정
 - RAM.ipynb : RAM 정보 추출
 - EDA.ipynb : 데이터 병합 및 기초 EDA
+- merged.csv : 최종 사용 데이터
